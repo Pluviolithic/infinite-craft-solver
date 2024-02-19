@@ -1,0 +1,7614 @@
+{
+    "elements": [
+        {
+            "text": "Water",
+            "emoji": "💧",
+            "discovered": false
+        },
+        {
+            "text": "Fire",
+            "emoji": "🔥",
+            "discovered": false
+        },
+        {
+            "text": "Wind",
+            "emoji": "🌬️",
+            "discovered": false
+        },
+        {
+            "text": "Earth",
+            "emoji": "🌍",
+            "discovered": false
+        },
+        {
+            "text": "Steam",
+            "emoji": "💨",
+            "discovered": false
+        },
+        {
+            "text": "Cloud",
+            "emoji": "☁️",
+            "discovered": false
+        },
+        {
+            "text": "Lightning",
+            "emoji": "⚡️",
+            "discovered": false
+        },
+        {
+            "text": "Volcano",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Mountain",
+            "emoji": "🏔️",
+            "discovered": false
+        },
+        {
+            "text": "Snow",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Lava",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Smoke",
+            "emoji": "💨",
+            "discovered": false
+        },
+        {
+            "text": "Fog",
+            "emoji": "🌫️",
+            "discovered": false
+        },
+        {
+            "text": "Plant",
+            "emoji": "🌱",
+            "discovered": false
+        },
+        {
+            "text": "Swamp",
+            "emoji": "🐊",
+            "discovered": false
+        },
+        {
+            "text": "Marsh",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Mud",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Clay",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Pottery",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Ceramic",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Dragon",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Smog",
+            "emoji": "🌫️",
+            "discovered": false
+        },
+        {
+            "text": "Vase",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Flower",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Garden",
+            "emoji": "🌱",
+            "discovered": false
+        },
+        {
+            "text": "Barbecue",
+            "emoji": "🍖",
+            "discovered": false
+        },
+        {
+            "text": "Rose",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Lotus",
+            "emoji": "🌺",
+            "discovered": false
+        },
+        {
+            "text": "Buddha",
+            "emoji": "🧘‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Incense",
+            "emoji": "🕯️",
+            "discovered": false
+        },
+        {
+            "text": "Perfume",
+            "emoji": "👃",
+            "discovered": false
+        },
+        {
+            "text": "Mist",
+            "emoji": "🌫️",
+            "discovered": false
+        },
+        {
+            "text": "Smell",
+            "emoji": "👃",
+            "discovered": false
+        },
+        {
+            "text": "Scent",
+            "emoji": "👃",
+            "discovered": false
+        },
+        {
+            "text": "Eruption",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Nirvana",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Yeti",
+            "emoji": "🧊",
+            "discovered": false
+        },
+        {
+            "text": "Abominable Snowman",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Toast",
+            "emoji": "🍞",
+            "discovered": false
+        },
+        {
+            "text": "Burnt Toast",
+            "emoji": "🍞",
+            "discovered": false
+        },
+        {
+            "text": "Ash",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Phoenix",
+            "emoji": "🔥",
+            "discovered": false
+        },
+        {
+            "text": "Urn",
+            "emoji": "⚱️",
+            "discovered": false
+        },
+        {
+            "text": "Tear",
+            "emoji": "😢",
+            "discovered": false
+        },
+        {
+            "text": "Sadness",
+            "emoji": "😞",
+            "discovered": false
+        },
+        {
+            "text": "Firebird",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Bread",
+            "emoji": "🍞",
+            "discovered": false
+        },
+        {
+            "text": "Soup",
+            "emoji": "🍲",
+            "discovered": false
+        },
+        {
+            "text": "Miso",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Yakiniku",
+            "emoji": "🍢",
+            "discovered": false
+        },
+        {
+            "text": "Yakisoba",
+            "emoji": "🍜",
+            "discovered": false
+        },
+        {
+            "text": "Fireworks",
+            "emoji": "🎆",
+            "discovered": false
+        },
+        {
+            "text": "Thunder",
+            "emoji": "⛈️",
+            "discovered": false
+        },
+        {
+            "text": "Rain",
+            "emoji": "🌧️",
+            "discovered": false
+        },
+        {
+            "text": "Rainbow",
+            "emoji": "🌈",
+            "discovered": false
+        },
+        {
+            "text": "Enlightenment",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Independence Day",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Freedom Chowder",
+            "emoji": "🍲",
+            "discovered": false
+        },
+        {
+            "text": "Freedom",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Pride",
+            "emoji": "🏳️‍🌈",
+            "discovered": false
+        },
+        {
+            "text": "French",
+            "emoji": "🇫🇷",
+            "discovered": false
+        },
+        {
+            "text": "Croissant",
+            "emoji": "🥐",
+            "discovered": false
+        },
+        {
+            "text": "French Revolution",
+            "emoji": "🇫🇷⚔️",
+            "discovered": false
+        },
+        {
+            "text": "Bastille Day",
+            "emoji": "🇫🇷",
+            "discovered": false
+        },
+        {
+            "text": "Sandwich",
+            "emoji": "🥪",
+            "discovered": false
+        },
+        {
+            "text": "Yakisand",
+            "emoji": "🍣",
+            "discovered": false
+        },
+        {
+            "text": "Burger",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "Fries",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Happy Meal",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "McDonalds",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "French Fries",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Freedom Fries",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Liberty",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Statue of Liberty",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Lady Liberty",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Crying Statue Of Liberty",
+            "emoji": "🗽😢",
+            "discovered": false
+        },
+        {
+            "text": "Trump",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "President",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Impeachment",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "???",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Ego",
+            "emoji": "💁",
+            "discovered": false
+        },
+        {
+            "text": "Napoleon",
+            "emoji": "🐐",
+            "discovered": false
+        },
+        {
+            "text": "Exile",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Hero",
+            "emoji": "🦸",
+            "discovered": false
+        },
+        {
+            "text": "Superhero",
+            "emoji": "🦸",
+            "discovered": false
+        },
+        {
+            "text": "Superego",
+            "emoji": "🤓",
+            "discovered": false
+        },
+        {
+            "text": "Id",
+            "emoji": "🆔",
+            "discovered": false
+        },
+        {
+            "text": "Eidolon",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Superman",
+            "emoji": "🦸",
+            "discovered": false
+        },
+        {
+            "text": "Kryptonite",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Dead",
+            "emoji": "💀",
+            "discovered": false
+        },
+        {
+            "text": "Zombie",
+            "emoji": "🧟",
+            "discovered": false
+        },
+        {
+            "text": "Doomsday",
+            "emoji": "💣",
+            "discovered": false
+        },
+        {
+            "text": "Apocalypse",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Napoleon Dynamite",
+            "emoji": "🐔",
+            "discovered": false
+        },
+        {
+            "text": "Doomnap",
+            "emoji": "🤖",
+            "discovered": false
+        },
+        {
+            "text": "Doom",
+            "emoji": "💣",
+            "discovered": false
+        },
+        {
+            "text": "Doomday",
+            "emoji": "💣",
+            "discovered": false
+        },
+        {
+            "text": "Evil",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Hitler",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Napoleon Bonaparte",
+            "emoji": "🎩",
+            "discovered": false
+        },
+        {
+            "text": "Stalin",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Ghost",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Shade",
+            "emoji": "🌞",
+            "discovered": false
+        },
+        {
+            "text": "Shadow",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Darkness",
+            "emoji": "🌚",
+            "discovered": false
+        },
+        {
+            "text": "Night",
+            "emoji": "🌃",
+            "discovered": false
+        },
+        {
+            "text": "Moon",
+            "emoji": "🌙",
+            "discovered": false
+        },
+        {
+            "text": "Eclipse",
+            "emoji": "🌑",
+            "discovered": false
+        },
+        {
+            "text": "Sun",
+            "emoji": "☀️",
+            "discovered": false
+        },
+        {
+            "text": "Solar",
+            "emoji": "☀️",
+            "discovered": false
+        },
+        {
+            "text": "Planet",
+            "emoji": "🪐",
+            "discovered": false
+        },
+        {
+            "text": "Solar System",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Sunflower",
+            "emoji": "🌻",
+            "discovered": false
+        },
+        {
+            "text": "Tree",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Forest",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "Galaxy",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Universe",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Cosmos",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Star",
+            "emoji": "⭐️",
+            "discovered": false
+        },
+        {
+            "text": "Supernova",
+            "emoji": "🌠",
+            "discovered": false
+        },
+        {
+            "text": "Black Hole",
+            "emoji": "🕳️",
+            "discovered": false
+        },
+        {
+            "text": "Wormhole",
+            "emoji": "🕳️",
+            "discovered": false
+        },
+        {
+            "text": "Big Crunch",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Big Bang",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Grave",
+            "emoji": "🪦",
+            "discovered": false
+        },
+        {
+            "text": "Cemetery",
+            "emoji": "🪦",
+            "discovered": false
+        },
+        {
+            "text": "Graveyard",
+            "emoji": "🪦",
+            "discovered": false
+        },
+        {
+            "text": "Dirt",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Dirtnap",
+            "emoji": "💤",
+            "discovered": false
+        },
+        {
+            "text": "Time",
+            "emoji": "⏰",
+            "discovered": false
+        },
+        {
+            "text": "Fossil",
+            "emoji": "🦴",
+            "discovered": false
+        },
+        {
+            "text": "Dinosaur",
+            "emoji": "🦖",
+            "discovered": false
+        },
+        {
+            "text": "Clock",
+            "emoji": "⏰",
+            "discovered": false
+        },
+        {
+            "text": "Hourglass",
+            "emoji": "⌛",
+            "discovered": false
+        },
+        {
+            "text": "Sand",
+            "emoji": "🏖️",
+            "discovered": false
+        },
+        {
+            "text": "Glass",
+            "emoji": "🥃",
+            "discovered": false
+        },
+        {
+            "text": "Lens",
+            "emoji": "🔍",
+            "discovered": false
+        },
+        {
+            "text": "Magnifying Glass",
+            "emoji": "🔍",
+            "discovered": false
+        },
+        {
+            "text": "Telescope",
+            "emoji": "🔭",
+            "discovered": false
+        },
+        {
+            "text": "Space",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Astronaut",
+            "emoji": "🚀",
+            "discovered": false
+        },
+        {
+            "text": "Space Station",
+            "emoji": "🛰️",
+            "discovered": false
+        },
+        {
+            "text": "Time Machine",
+            "emoji": "⏰",
+            "discovered": false
+        },
+        {
+            "text": "Time Travel",
+            "emoji": "⏰",
+            "discovered": false
+        },
+        {
+            "text": "Paradox",
+            "emoji": "😵",
+            "discovered": false
+        },
+        {
+            "text": "Grandfather",
+            "emoji": "👴",
+            "discovered": false
+        },
+        {
+            "text": "Grandson",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Family",
+            "emoji": "👨‍👩‍",
+            "discovered": false
+        },
+        {
+            "text": "Grandpa",
+            "emoji": "👴",
+            "discovered": false
+        },
+        {
+            "text": "Ancestor",
+            "emoji": "👴",
+            "discovered": false
+        },
+        {
+            "text": "Alien",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "UFO",
+            "emoji": "🛸",
+            "discovered": false
+        },
+        {
+            "text": "Communism",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Lenin",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Future",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "Russia",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "USSR",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Soviet",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Union",
+            "emoji": "🇪🇺",
+            "discovered": false
+        },
+        {
+            "text": "Federation",
+            "emoji": "🖖",
+            "discovered": false
+        },
+        {
+            "text": "Empire",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Kingdom",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "King",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "God",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Zeus",
+            "emoji": "⚡️",
+            "discovered": false
+        },
+        {
+            "text": "Poseidon",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Trident",
+            "emoji": "🔱",
+            "discovered": false
+        },
+        {
+            "text": "Atlantis",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Aquaman",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Poseidon’s Trident",
+            "emoji": "🔱",
+            "discovered": false
+        },
+        {
+            "text": "Poseidon’s Temple",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "4th of July",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Irony",
+            "emoji": "😒",
+            "discovered": false
+        },
+        {
+            "text": "Religion",
+            "emoji": "☪️",
+            "discovered": false
+        },
+        {
+            "text": "Church",
+            "emoji": "⛪",
+            "discovered": false
+        },
+        {
+            "text": "Cult",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "Temple",
+            "emoji": "🏯",
+            "discovered": false
+        },
+        {
+            "text": "Pyramid",
+            "emoji": "🗿",
+            "discovered": false
+        },
+        {
+            "text": "Sphinx",
+            "emoji": "🐫",
+            "discovered": false
+        },
+        {
+            "text": "Mummy",
+            "emoji": "🧟",
+            "discovered": false
+        },
+        {
+            "text": "China",
+            "emoji": "🇨🇳",
+            "discovered": false
+        },
+        {
+            "text": "Terracotta",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Obesity",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "Egypt",
+            "emoji": "🇪🇬",
+            "discovered": false
+        },
+        {
+            "text": "America",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Epidemic",
+            "emoji": "🦠",
+            "discovered": false
+        },
+        {
+            "text": "Diabetes",
+            "emoji": "💉",
+            "discovered": false
+        },
+        {
+            "text": "Pandemic",
+            "emoji": "😷",
+            "discovered": false
+        },
+        {
+            "text": "Wuhan",
+            "emoji": "🏥",
+            "discovered": false
+        },
+        {
+            "text": "Coronavirus",
+            "emoji": "🦠",
+            "discovered": false
+        },
+        {
+            "text": "Covid-19",
+            "emoji": "😷",
+            "discovered": false
+        },
+        {
+            "text": "Diabesity",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "Death",
+            "emoji": "💀",
+            "discovered": false
+        },
+        {
+            "text": "Grim Reaper",
+            "emoji": "💀",
+            "discovered": false
+        },
+        {
+            "text": "Scythe",
+            "emoji": "⚔️",
+            "discovered": false
+        },
+        {
+            "text": "Hades",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Papyrus",
+            "emoji": "📜",
+            "discovered": false
+        },
+        {
+            "text": "Vodka",
+            "emoji": "🍸",
+            "discovered": false
+        },
+        {
+            "text": "Ironic Vodka",
+            "emoji": "🍸",
+            "discovered": false
+        },
+        {
+            "text": "Mao Tai",
+            "emoji": "🍶",
+            "discovered": false
+        },
+        {
+            "text": "Martini",
+            "emoji": "🍸",
+            "discovered": false
+        },
+        {
+            "text": "Vine",
+            "emoji": "🍇",
+            "discovered": false
+        },
+        {
+            "text": "Wine",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Dionysus",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Angel",
+            "emoji": "👼",
+            "discovered": false
+        },
+        {
+            "text": "Halo",
+            "emoji": "👼",
+            "discovered": false
+        },
+        {
+            "text": "Bacchus",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Drunk",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Party",
+            "emoji": "🎉",
+            "discovered": false
+        },
+        {
+            "text": "Hangover",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Cure",
+            "emoji": "💊",
+            "discovered": false
+        },
+        {
+            "text": "Vaccine",
+            "emoji": "💉",
+            "discovered": false
+        },
+        {
+            "text": "Reaper",
+            "emoji": "💀",
+            "discovered": false
+        },
+        {
+            "text": "Vampire",
+            "emoji": "🧛",
+            "discovered": false
+        },
+        {
+            "text": "Human",
+            "emoji": "👨",
+            "discovered": false
+        },
+        {
+            "text": "Devil",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Satan",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Hell",
+            "emoji": "👿",
+            "discovered": false
+        },
+        {
+            "text": "Brimstone",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Jesus",
+            "emoji": "😇",
+            "discovered": false
+        },
+        {
+            "text": "Christianity",
+            "emoji": "✝️",
+            "discovered": false
+        },
+        {
+            "text": "Catholicism",
+            "emoji": "⛪",
+            "discovered": false
+        },
+        {
+            "text": "Pope",
+            "emoji": "🕍",
+            "discovered": false
+        },
+        {
+            "text": "Exorcist",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Heaven",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Vaccination",
+            "emoji": "💉",
+            "discovered": false
+        },
+        {
+            "text": "Priest",
+            "emoji": "👼",
+            "discovered": false
+        },
+        {
+            "text": "Dracula",
+            "emoji": "🧛",
+            "discovered": false
+        },
+        {
+            "text": "Rave",
+            "emoji": "💃",
+            "discovered": false
+        },
+        {
+            "text": "Confucius",
+            "emoji": "🧘",
+            "discovered": false
+        },
+        {
+            "text": "Great Wall",
+            "emoji": "🏯",
+            "discovered": false
+        },
+        {
+            "text": "China Wall",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Great Wall of China",
+            "emoji": "🏯",
+            "discovered": false
+        },
+        {
+            "text": "Humility",
+            "emoji": "🙇",
+            "discovered": false
+        },
+        {
+            "text": "Christian",
+            "emoji": "✝️",
+            "discovered": false
+        },
+        {
+            "text": "Crusader",
+            "emoji": "⚔️",
+            "discovered": false
+        },
+        {
+            "text": "Knight",
+            "emoji": "🤴",
+            "discovered": false
+        },
+        {
+            "text": "Castle",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Queen",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Chess",
+            "emoji": "♟️",
+            "discovered": false
+        },
+        {
+            "text": "Checkmate",
+            "emoji": "♟️",
+            "discovered": false
+        },
+        {
+            "text": "Love",
+            "emoji": "❤️",
+            "discovered": false
+        },
+        {
+            "text": "Kiss",
+            "emoji": "💋",
+            "discovered": false
+        },
+        {
+            "text": "Prince",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Marriage",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Hiccup",
+            "emoji": "🤢",
+            "discovered": false
+        },
+        {
+            "text": "Heartburn",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Divorce",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Divorceover",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Princess",
+            "emoji": "👸",
+            "discovered": false
+        },
+        {
+            "text": "Royalty",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Heart",
+            "emoji": "❤️",
+            "discovered": false
+        },
+        {
+            "text": "Cajun",
+            "emoji": "🍤",
+            "discovered": false
+        },
+        {
+            "text": "Gumbo",
+            "emoji": "🍲",
+            "discovered": false
+        },
+        {
+            "text": "Hera",
+            "emoji": "🦉",
+            "discovered": false
+        },
+        {
+            "text": "Hercules",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Genealogy",
+            "emoji": "👪",
+            "discovered": false
+        },
+        {
+            "text": "Ra",
+            "emoji": "🌞",
+            "discovered": false
+        },
+        {
+            "text": "Athena",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Triton",
+            "emoji": "🔱",
+            "discovered": false
+        },
+        {
+            "text": "Mermaid",
+            "emoji": "🧜‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Horse",
+            "emoji": "🐴",
+            "discovered": false
+        },
+        {
+            "text": "Centaur",
+            "emoji": "🦄",
+            "discovered": false
+        },
+        {
+            "text": "Sagittarius",
+            "emoji": "♐",
+            "discovered": false
+        },
+        {
+            "text": "Horus",
+            "emoji": "🌞",
+            "discovered": false
+        },
+        {
+            "text": "Jupiter",
+            "emoji": "🪐",
+            "discovered": false
+        },
+        {
+            "text": "Paris",
+            "emoji": "🗼",
+            "discovered": false
+        },
+        {
+            "text": "Vineyard",
+            "emoji": "🍇",
+            "discovered": false
+        },
+        {
+            "text": "Noodles",
+            "emoji": "🍜",
+            "discovered": false
+        },
+        {
+            "text": "Meat",
+            "emoji": "🍖",
+            "discovered": false
+        },
+        {
+            "text": "Miso Soup",
+            "emoji": "🍜",
+            "discovered": false
+        },
+        {
+            "text": "Ramen",
+            "emoji": "🍜",
+            "discovered": false
+        },
+        {
+            "text": "Stew",
+            "emoji": "🍲",
+            "discovered": false
+        },
+        {
+            "text": "Wheat",
+            "emoji": "🌾",
+            "discovered": false
+        },
+        {
+            "text": "Eiffel",
+            "emoji": "🗼",
+            "discovered": false
+        },
+        {
+            "text": "Tower",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Eiffel Tower",
+            "emoji": "🗼",
+            "discovered": false
+        },
+        {
+            "text": "France",
+            "emoji": "🇫🇷",
+            "discovered": false
+        },
+        {
+            "text": "Fortress",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Chardonnay",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Lake",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Ocean",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Fish",
+            "emoji": "🐟",
+            "discovered": false
+        },
+        {
+            "text": "Fishbowl",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Shark",
+            "emoji": "🦈",
+            "discovered": false
+        },
+        {
+            "text": "Whale",
+            "emoji": "🐳",
+            "discovered": false
+        },
+        {
+            "text": "Aquarium",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Spaghetti",
+            "emoji": "🍝",
+            "discovered": false
+        },
+        {
+            "text": "Sharknado",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "Italy",
+            "emoji": "🇮🇹",
+            "discovered": false
+        },
+        {
+            "text": "Rome",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Gladiator",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Europe",
+            "emoji": "🇪🇺",
+            "discovered": false
+        },
+        {
+            "text": "Continent",
+            "emoji": "🌎",
+            "discovered": false
+        },
+        {
+            "text": "Pangaea",
+            "emoji": "🌎",
+            "discovered": false
+        },
+        {
+            "text": "Supercontinent",
+            "emoji": "🌎",
+            "discovered": false
+        },
+        {
+            "text": "Pasta",
+            "emoji": "🍝",
+            "discovered": false
+        },
+        {
+            "text": "Leviathan",
+            "emoji": "🐋",
+            "discovered": false
+        },
+        {
+            "text": "Tiamat",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Bahamut",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Sea Serpent",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Pompeii",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Vesuvius",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Helen",
+            "emoji": "👩‍🦰",
+            "discovered": false
+        },
+        {
+            "text": "Aphrodite",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Venus",
+            "emoji": "♀️",
+            "discovered": false
+        },
+        {
+            "text": "Comet",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Meteor",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Meteorite",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Adultery",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Eros",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Cupid",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Wisdom",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Desert",
+            "emoji": "🏜️",
+            "discovered": false
+        },
+        {
+            "text": "Mirage",
+            "emoji": "🌵",
+            "discovered": false
+        },
+        {
+            "text": "Beach",
+            "emoji": "🏖️",
+            "discovered": false
+        },
+        {
+            "text": "Castaway",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Island",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Iceland",
+            "emoji": "🇮🇸",
+            "discovered": false
+        },
+        {
+            "text": "Cyprus",
+            "emoji": "🇨🇾",
+            "discovered": false
+        },
+        {
+            "text": "Odysseus",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Odyssey",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Troy",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Penelope",
+            "emoji": "🐧",
+            "discovered": false
+        },
+        {
+            "text": "Ashes",
+            "emoji": "💨",
+            "discovered": false
+        },
+        {
+            "text": "Owl",
+            "emoji": "🦉",
+            "discovered": false
+        },
+        {
+            "text": "Oasis",
+            "emoji": "🏜️",
+            "discovered": false
+        },
+        {
+            "text": "Coral",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Reef",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Sushi",
+            "emoji": "🍣",
+            "discovered": false
+        },
+        {
+            "text": "Wasabi",
+            "emoji": "🌶️",
+            "discovered": false
+        },
+        {
+            "text": "Rice",
+            "emoji": "🍚",
+            "discovered": false
+        },
+        {
+            "text": "Snowy Owl",
+            "emoji": "🦉",
+            "discovered": false
+        },
+        {
+            "text": "Snowy Owl Egg",
+            "emoji": "🥚",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Hogwarts",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Wizard",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Wand",
+            "emoji": "🪄",
+            "discovered": false
+        },
+        {
+            "text": "Magic",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Hedwig",
+            "emoji": "🦉",
+            "discovered": false
+        },
+        {
+            "text": "Dumbledore",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Wedding",
+            "emoji": "👰",
+            "discovered": false
+        },
+        {
+            "text": "Hermione",
+            "emoji": "🧙‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Witch",
+            "emoji": "🧙‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Spell",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "Voldemort",
+            "emoji": "👿",
+            "discovered": false
+        },
+        {
+            "text": "Nagini",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Horcrux",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Death Eaters",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Avada Kedavra",
+            "emoji": "⚡️",
+            "discovered": false
+        },
+        {
+            "text": "Knowledge",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Myth",
+            "emoji": "🧚‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Mythology",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Unicorn",
+            "emoji": "🦄",
+            "discovered": false
+        },
+        {
+            "text": "Alchemist",
+            "emoji": "🧪",
+            "discovered": false
+        },
+        {
+            "text": "Philosopher",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Sage",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Philosophy",
+            "emoji": "💭",
+            "discovered": false
+        },
+        {
+            "text": "Socrates",
+            "emoji": "💭",
+            "discovered": false
+        },
+        {
+            "text": "Plato",
+            "emoji": "🍴",
+            "discovered": false
+        },
+        {
+            "text": "Aristotle",
+            "emoji": "🐢",
+            "discovered": false
+        },
+        {
+            "text": "Merlin",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Snake",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Medicine",
+            "emoji": "💊",
+            "discovered": false
+        },
+        {
+            "text": "Health",
+            "emoji": "💊",
+            "discovered": false
+        },
+        {
+            "text": "Immortal",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Legend",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "Elixir",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Life",
+            "emoji": "🌱",
+            "discovered": false
+        },
+        {
+            "text": "Immortality",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Stone",
+            "emoji": "🪨",
+            "discovered": false
+        },
+        {
+            "text": "Gold",
+            "emoji": "💛",
+            "discovered": false
+        },
+        {
+            "text": "Midas",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Alchemy",
+            "emoji": "🧪",
+            "discovered": false
+        },
+        {
+            "text": "Philosopher’s Stone",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "King Arthur",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "King Midas",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "King Kong",
+            "emoji": "🦍",
+            "discovered": false
+        },
+        {
+            "text": "Monkey",
+            "emoji": "🐒",
+            "discovered": false
+        },
+        {
+            "text": "Medusa",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "King Medusa",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Gorgon",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Stheno",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Euryale",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "King Kong Midas",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Godzilla",
+            "emoji": "🦖",
+            "discovered": false
+        },
+        {
+            "text": "Kaiju",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Monocorn",
+            "emoji": "🦄",
+            "discovered": false
+        },
+        {
+            "text": "Slytherin",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Hydra",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Snape",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Potion",
+            "emoji": "🧪",
+            "discovered": false
+        },
+        {
+            "text": "Harry Pottery",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Window",
+            "emoji": "🪟",
+            "discovered": false
+        },
+        {
+            "text": "Accident",
+            "emoji": "🚑",
+            "discovered": false
+        },
+        {
+            "text": "Drunken",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "House",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Greenhouse",
+            "emoji": "🏡",
+            "discovered": false
+        },
+        {
+            "text": "Herbology",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Granger",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Light Bulb",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Idea",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Lightbulb",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Lamp",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Aladdin",
+            "emoji": "🧞‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Genie",
+            "emoji": "🧞‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Harry Prince",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Prince Harry",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Prince Harry Prince",
+            "emoji": "👑👦🏼",
+            "discovered": false
+        },
+        {
+            "text": "Pot",
+            "emoji": "🥘",
+            "discovered": false
+        },
+        {
+            "text": "Cook",
+            "emoji": "🍳",
+            "discovered": false
+        },
+        {
+            "text": "Chef",
+            "emoji": "👨‍🍳",
+            "discovered": false
+        },
+        {
+            "text": "Bong",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Weed",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Stoner",
+            "emoji": "🍃",
+            "discovered": false
+        },
+        {
+            "text": "Harry Pothead",
+            "emoji": "🍁",
+            "discovered": false
+        },
+        {
+            "text": "Potter",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Frog",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "French Onion Soup",
+            "emoji": "🥣",
+            "discovered": false
+        },
+        {
+            "text": "French Dip",
+            "emoji": "🥪",
+            "discovered": false
+        },
+        {
+            "text": "Boiling Frog",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "Frog Legs",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "French Frog Legs",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "Steak",
+            "emoji": "🥩",
+            "discovered": false
+        },
+        {
+            "text": "Caveman",
+            "emoji": "🦴",
+            "discovered": false
+        },
+        {
+            "text": "Meatloaf",
+            "emoji": "🍖",
+            "discovered": false
+        },
+        {
+            "text": "Cavewoman",
+            "emoji": "🦴👩‍",
+            "discovered": false
+        },
+        {
+            "text": "Baby",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Neanderthal",
+            "emoji": "🧐",
+            "discovered": false
+        },
+        {
+            "text": "Iron Man",
+            "emoji": "🤖",
+            "discovered": false
+        },
+        {
+            "text": "Irony Man",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Iron Man 2",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Irony Man 2",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Half-Blood Prince",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Baby Iron",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Tin Man",
+            "emoji": "🤖",
+            "discovered": false
+        },
+        {
+            "text": "Robot",
+            "emoji": "🤖",
+            "discovered": false
+        },
+        {
+            "text": "Rock",
+            "emoji": "🪨",
+            "discovered": false
+        },
+        {
+            "text": "Iron",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Metal",
+            "emoji": "🤘",
+            "discovered": false
+        },
+        {
+            "text": "Coin",
+            "emoji": "💰",
+            "discovered": false
+        },
+        {
+            "text": "Money",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Rich",
+            "emoji": "💰",
+            "discovered": false
+        },
+        {
+            "text": "Richer",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Richest",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Bill Gates",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Tony Stark",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Iron Man 3",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Bitcoin",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Cavecoin",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Froggy Meatloaf",
+            "emoji": "🐸",
+            "discovered": true
+        },
+        {
+            "text": "Crypto",
+            "emoji": "🪙",
+            "discovered": false
+        },
+        {
+            "text": "Billionaire",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Poor",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Robin Hood",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Thief",
+            "emoji": "🕵️",
+            "discovered": false
+        },
+        {
+            "text": "Archer",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Sherwood",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Robbery",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Oxymoron",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Politician",
+            "emoji": "🗳️",
+            "discovered": false
+        },
+        {
+            "text": "Donald Trump",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Donald Hood",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Crime",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Pardon",
+            "emoji": "🙇",
+            "discovered": false
+        },
+        {
+            "text": "Forgiveness",
+            "emoji": "🙏",
+            "discovered": false
+        },
+        {
+            "text": "Peace",
+            "emoji": "✌️",
+            "discovered": false
+        },
+        {
+            "text": "Tranquility",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Zen",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Donald Zen",
+            "emoji": "🧘‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Yoga",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Yogi",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Robber",
+            "emoji": "🏦",
+            "discovered": false
+        },
+        {
+            "text": "Yogamoron",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Namaste",
+            "emoji": "🙏",
+            "discovered": false
+        },
+        {
+            "text": "Apollo",
+            "emoji": "🌕",
+            "discovered": false
+        },
+        {
+            "text": "Greek",
+            "emoji": "🇬🇷",
+            "discovered": false
+        },
+        {
+            "text": "Gyro",
+            "emoji": "🍔",
+            "discovered": false
+        },
+        {
+            "text": "Genetics",
+            "emoji": "🧬",
+            "discovered": false
+        },
+        {
+            "text": "Inbreeding",
+            "emoji": "🧬👨‍",
+            "discovered": false
+        },
+        {
+            "text": "Cousin",
+            "emoji": "👨‍👩‍",
+            "discovered": false
+        },
+        {
+            "text": "Swamp Thing",
+            "emoji": "🐊",
+            "discovered": false
+        },
+        {
+            "text": "Clone",
+            "emoji": "👬",
+            "discovered": false
+        },
+        {
+            "text": "Bear",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Redneck",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Grizzly",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Inbred",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Lifestyle",
+            "emoji": "💅",
+            "discovered": false
+        },
+        {
+            "text": "Hillbilly",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Swampbilly",
+            "emoji": "🐊",
+            "discovered": false
+        },
+        {
+            "text": "Deliverance",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Clone Wars",
+            "emoji": "⚔️🤖",
+            "discovered": false
+        },
+        {
+            "text": "Dukes of Hazzard",
+            "emoji": "🚗",
+            "discovered": false
+        },
+        {
+            "text": "Luke Skywalker",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Star Wars",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Jedi",
+            "emoji": "🤺",
+            "discovered": false
+        },
+        {
+            "text": "Boss Hogg",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Daisy Duke",
+            "emoji": "👖",
+            "discovered": false
+        },
+        {
+            "text": "Princess Leia",
+            "emoji": "👸",
+            "discovered": false
+        },
+        {
+            "text": "Luke",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Han Solo",
+            "emoji": "👨‍🚀",
+            "discovered": false
+        },
+        {
+            "text": "Clone Wars + Han Solo",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Jabba the Hutt",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "Slave",
+            "emoji": "⛓️",
+            "discovered": false
+        },
+        {
+            "text": "Sith",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Darth Vader",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Sith Lord",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Darth Maul",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Jabba The Slut",
+            "emoji": "🐊",
+            "discovered": false
+        },
+        {
+            "text": "Jabba The Hut",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "Leia",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Yoda",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "Jedi Master",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Boulder",
+            "emoji": "🪨",
+            "discovered": false
+        },
+        {
+            "text": "French Fry",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Potato",
+            "emoji": "🥔",
+            "discovered": false
+        },
+        {
+            "text": "Mr. Potato Head",
+            "emoji": "🥔",
+            "discovered": false
+        },
+        {
+            "text": "Superstoner",
+            "emoji": "🦍",
+            "discovered": false
+        },
+        {
+            "text": "Princess Tater",
+            "emoji": "👸🏼🥔",
+            "discovered": false
+        },
+        {
+            "text": "Potato Chip",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Munchies",
+            "emoji": "🍕",
+            "discovered": false
+        },
+        {
+            "text": "Rocky Road",
+            "emoji": "🍦",
+            "discovered": false
+        },
+        {
+            "text": "Ice Cream",
+            "emoji": "🍦",
+            "discovered": false
+        },
+        {
+            "text": "Ice Cream Cone",
+            "emoji": "🍦",
+            "discovered": false
+        },
+        {
+            "text": "Ice Cream Sandwich",
+            "emoji": "🍨",
+            "discovered": false
+        },
+        {
+            "text": "Ice Cream Princess",
+            "emoji": "🍦",
+            "discovered": false
+        },
+        {
+            "text": "Mr. Potato Princess",
+            "emoji": "🥔👸🏼",
+            "discovered": false
+        },
+        {
+            "text": "Sarcasm",
+            "emoji": "😒",
+            "discovered": false
+        },
+        {
+            "text": "Satire",
+            "emoji": "😜",
+            "discovered": false
+        },
+        {
+            "text": "Darth Tater",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Spaceballs",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "The Onion",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "The Onion Princess",
+            "emoji": "👑🧅👸",
+            "discovered": false
+        },
+        {
+            "text": "The Onion Rings",
+            "emoji": "🍟🔪",
+            "discovered": false
+        },
+        {
+            "text": "Fat Chance",
+            "emoji": "🍀",
+            "discovered": false
+        },
+        {
+            "text": "The Onion Queen",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "The Onion King",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Darth Onion",
+            "emoji": "🧅👹",
+            "discovered": false
+        },
+        {
+            "text": "Darth Trump",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Smells Like Teen Spirit",
+            "emoji": "🤘",
+            "discovered": false
+        },
+        {
+            "text": "Weird Al Yankovic",
+            "emoji": "🎵",
+            "discovered": false
+        },
+        {
+            "text": "Paradise",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Parody",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Pirate",
+            "emoji": "🏴‍☠️",
+            "discovered": false
+        },
+        {
+            "text": "Treasure",
+            "emoji": "💎",
+            "discovered": false
+        },
+        {
+            "text": "Captain Underpants",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Spacepants",
+            "emoji": "👖🚀",
+            "discovered": false
+        },
+        {
+            "text": "Spacepirate",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "Sandpirate",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Sandwichpirate",
+            "emoji": "🏴‍☠️",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Sorcerer’s Biscuit",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Frozen",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Snowman",
+            "emoji": "☃️",
+            "discovered": false
+        },
+        {
+            "text": "Snowpirate",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Smells Like Teen Spirit",
+            "emoji": "🎸",
+            "discovered": false
+        },
+        {
+            "text": "Dust",
+            "emoji": "🌫️",
+            "discovered": false
+        },
+        {
+            "text": "Tornado",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "French Toast",
+            "emoji": "🥞",
+            "discovered": false
+        },
+        {
+            "text": "Ouroboros",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Excalibur",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Sword",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Golem",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Statue",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Longsword",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Greatsword",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Claymore",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Skeleton",
+            "emoji": "💀",
+            "discovered": false
+        },
+        {
+            "text": "Dementors",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Goth",
+            "emoji": "🌑",
+            "discovered": false
+        },
+        {
+            "text": "Emo",
+            "emoji": "😞",
+            "discovered": false
+        },
+        {
+            "text": "Draco Malfoy",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Dementor Malfoy",
+            "emoji": "🧙‍♂️",
+            "discovered": true
+        },
+        {
+            "text": "Alucard",
+            "emoji": "🧛",
+            "discovered": false
+        },
+        {
+            "text": "Tom Riddle",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Lord Voldemort",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Captain Hook",
+            "emoji": "🪝",
+            "discovered": false
+        },
+        {
+            "text": "Captain Dumbledore",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Spacepants",
+            "emoji": "🚀",
+            "discovered": true
+        },
+        {
+            "text": "Baguette",
+            "emoji": "🥖",
+            "discovered": false
+        },
+        {
+            "text": "Chaos",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Chaos Blade",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Slim Chance",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Chewbacca",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Peter Mayhew",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Chewbacca Toast",
+            "emoji": "🍞🐻",
+            "discovered": false
+        },
+        {
+            "text": "Emoji",
+            "emoji": "😜",
+            "discovered": false
+        },
+        {
+            "text": "Gillyweed",
+            "emoji": "🌿",
+            "discovered": false
+        },
+        {
+            "text": "Samurai",
+            "emoji": "🥷",
+            "discovered": false
+        },
+        {
+            "text": "Ronin",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Ninja",
+            "emoji": "🥷",
+            "discovered": false
+        },
+        {
+            "text": "Shuriken",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Wookie Ninja",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Order",
+            "emoji": "📦",
+            "discovered": false
+        },
+        {
+            "text": "Judge",
+            "emoji": "👨‍⚖️",
+            "discovered": false
+        },
+        {
+            "text": "Law",
+            "emoji": "⚖️",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Sorcerer’s Stone",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Village",
+            "emoji": "🏡",
+            "discovered": false
+        },
+        {
+            "text": "Town",
+            "emoji": "🏡",
+            "discovered": false
+        },
+        {
+            "text": "City",
+            "emoji": "🏙️",
+            "discovered": false
+        },
+        {
+            "text": "Metropolis",
+            "emoji": "🏙️",
+            "discovered": false
+        },
+        {
+            "text": "Megalopolis",
+            "emoji": "🌆",
+            "discovered": false
+        },
+        {
+            "text": "History",
+            "emoji": "📜",
+            "discovered": false
+        },
+        {
+            "text": "Archaeology",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Holocaust",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Aroma",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Aromatherapy",
+            "emoji": "🧖‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Aroma Yoga",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Gringotts",
+            "emoji": "🏦",
+            "discovered": false
+        },
+        {
+            "text": "Kremlin",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Gorbachev",
+            "emoji": "🤨",
+            "discovered": false
+        },
+        {
+            "text": "Moscow",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Putin",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Goblins",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Goblin King",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Army",
+            "emoji": "🚁",
+            "discovered": false
+        },
+        {
+            "text": "Red Army",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Victory",
+            "emoji": "🏆",
+            "discovered": false
+        },
+        {
+            "text": "War",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Battle",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Soviet Union",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Goblin War",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Goblin",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Goblin Army",
+            "emoji": "👺",
+            "discovered": false
+        },
+        {
+            "text": "Explosion",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Court",
+            "emoji": "🏟️",
+            "discovered": false
+        },
+        {
+            "text": "Trial",
+            "emoji": "⚖️",
+            "discovered": false
+        },
+        {
+            "text": "Justice",
+            "emoji": "⚖️",
+            "discovered": false
+        },
+        {
+            "text": "Harmony",
+            "emoji": "💞",
+            "discovered": false
+        },
+        {
+            "text": "Truce",
+            "emoji": "☮️",
+            "discovered": false
+        },
+        {
+            "text": "Treaty",
+            "emoji": "🤝",
+            "discovered": false
+        },
+        {
+            "text": "Friendship",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Alliance",
+            "emoji": "🤝",
+            "discovered": false
+        },
+        {
+            "text": "Hipster",
+            "emoji": "👓",
+            "discovered": false
+        },
+        {
+            "text": "Communist",
+            "emoji": "☭",
+            "discovered": false
+        },
+        {
+            "text": "Comrade",
+            "emoji": "🤝",
+            "discovered": false
+        },
+        {
+            "text": "Revolution",
+            "emoji": "✊",
+            "discovered": false
+        },
+        {
+            "text": "Retard",
+            "emoji": "🤪",
+            "discovered": false
+        },
+        {
+            "text": "Guillotine",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Executioner",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Yeltsin",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Camelot",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Waterloo",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Superwoman",
+            "emoji": "🦸‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Clinton",
+            "emoji": "🍕",
+            "discovered": false
+        },
+        {
+            "text": "Hillary Clinton",
+            "emoji": "🇺🇸👩",
+            "discovered": false
+        },
+        {
+            "text": "Monica Lewinsky",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Bill Clinton",
+            "emoji": "🍕",
+            "discovered": false
+        },
+        {
+            "text": "Scandal",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Wonder Woman",
+            "emoji": "💃",
+            "discovered": false
+        },
+        {
+            "text": "Politics",
+            "emoji": "🗳️",
+            "discovered": false
+        },
+        {
+            "text": "Amazon",
+            "emoji": "📦",
+            "discovered": false
+        },
+        {
+            "text": "Monica",
+            "emoji": "💃",
+            "discovered": false
+        },
+        {
+            "text": "Scandoga",
+            "emoji": "🏔️",
+            "discovered": false
+        },
+        {
+            "text": "Kurt Cobain",
+            "emoji": "🎸",
+            "discovered": false
+        },
+        {
+            "text": "Courtney Love",
+            "emoji": "💋",
+            "discovered": false
+        },
+        {
+            "text": "Watergate",
+            "emoji": "💧",
+            "discovered": false
+        },
+        {
+            "text": "Nixon",
+            "emoji": "👴",
+            "discovered": false
+        },
+        {
+            "text": "Monarchy",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Courtney Nixon",
+            "emoji": "🕵️‍♂️",
+            "discovered": true
+        },
+        {
+            "text": "Gossip",
+            "emoji": "💬",
+            "discovered": false
+        },
+        {
+            "text": "Rumor",
+            "emoji": "💬",
+            "discovered": false
+        },
+        {
+            "text": "News",
+            "emoji": "📰",
+            "discovered": false
+        },
+        {
+            "text": "Iron Baby",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Ithaca",
+            "emoji": "🌞",
+            "discovered": false
+        },
+        {
+            "text": "Homer",
+            "emoji": "🍩",
+            "discovered": false
+        },
+        {
+            "text": "Simpson",
+            "emoji": "🍩",
+            "discovered": false
+        },
+        {
+            "text": "Drama",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Soap Opera",
+            "emoji": "📺",
+            "discovered": false
+        },
+        {
+            "text": "Bacchanal",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Protest",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Riot",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Royal Family",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Tragedy",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Comedy",
+            "emoji": "😂",
+            "discovered": false
+        },
+        {
+            "text": "Romance",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Romcom",
+            "emoji": "💑",
+            "discovered": false
+        },
+        {
+            "text": "Tears",
+            "emoji": "😭",
+            "discovered": false
+        },
+        {
+            "text": "Soap Tragedy",
+            "emoji": "🧼",
+            "discovered": false
+        },
+        {
+            "text": "Romeo and Juliet",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Shakespeare",
+            "emoji": "📜",
+            "discovered": false
+        },
+        {
+            "text": "Hamlet",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Romeo",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Ophelia",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "West Side Story",
+            "emoji": "🌃",
+            "discovered": false
+        },
+        {
+            "text": "Play",
+            "emoji": "🎮",
+            "discovered": false
+        },
+        {
+            "text": "Maria",
+            "emoji": "💃",
+            "discovered": false
+        },
+        {
+            "text": "Opera",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Juliet",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Musical",
+            "emoji": "🎶",
+            "discovered": false
+        },
+        {
+            "text": "Music",
+            "emoji": "🎶",
+            "discovered": false
+        },
+        {
+            "text": "Phantom of the Opera",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Phantom Of The West Side Story",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Glee",
+            "emoji": "🎶",
+            "discovered": false
+        },
+        {
+            "text": "Andrew Lloyd Webber",
+            "emoji": "🎼",
+            "discovered": false
+        },
+        {
+            "text": "Glee: The 3D Concert Movie",
+            "emoji": "🎤🎶🎬",
+            "discovered": false
+        },
+        {
+            "text": "Glee: The 3d Concert Movie: The Opera",
+            "emoji": "🎤",
+            "discovered": false
+        },
+        {
+            "text": "Revolutionary Girl Utena",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Utena",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Revolutionary Girl",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Salty",
+            "emoji": "🧂",
+            "discovered": false
+        },
+        {
+            "text": "Salt",
+            "emoji": "🧂",
+            "discovered": false
+        },
+        {
+            "text": "Pickle",
+            "emoji": "🥒",
+            "discovered": false
+        },
+        {
+            "text": "Cucumber",
+            "emoji": "🥒",
+            "discovered": false
+        },
+        {
+            "text": "Pickle Soap",
+            "emoji": "🥒",
+            "discovered": false
+        },
+        {
+            "text": "Broken",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Relish",
+            "emoji": "🍅",
+            "discovered": false
+        },
+        {
+            "text": "Salsa",
+            "emoji": "🌶️",
+            "discovered": false
+        },
+        {
+            "text": "Taco",
+            "emoji": "🌮",
+            "discovered": false
+        },
+        {
+            "text": "Tacos",
+            "emoji": "🌮",
+            "discovered": false
+        },
+        {
+            "text": "Hamletacos",
+            "emoji": "🌮🐷",
+            "discovered": false
+        },
+        {
+            "text": "Amazon Prime",
+            "emoji": "📦",
+            "discovered": false
+        },
+        {
+            "text": "Amazon Prime And Juliet",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Amazon Prime Video",
+            "emoji": "📺",
+            "discovered": false
+        },
+        {
+            "text": "Peter Pan",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Tinkerbell",
+            "emoji": "🧚‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Salsa Fairy",
+            "emoji": "🧚‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Tinkerbell and the Pirate Fairy",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "Salty Steak",
+            "emoji": "🥩",
+            "discovered": false
+        },
+        {
+            "text": "Tasty",
+            "emoji": "🍴",
+            "discovered": false
+        },
+        {
+            "text": "Candy",
+            "emoji": "🍬",
+            "discovered": false
+        },
+        {
+            "text": "Halloween",
+            "emoji": "🎃",
+            "discovered": false
+        },
+        {
+            "text": "Lollipop",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Sugar",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Candy Cane",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Santa Claus",
+            "emoji": "🎅",
+            "discovered": false
+        },
+        {
+            "text": "Elf",
+            "emoji": "🧝",
+            "discovered": false
+        },
+        {
+            "text": "Gandalf",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Trick or Treat",
+            "emoji": "🎃",
+            "discovered": false
+        },
+        {
+            "text": "Christmas",
+            "emoji": "🎄",
+            "discovered": false
+        },
+        {
+            "text": "Santa",
+            "emoji": "🎅",
+            "discovered": false
+        },
+        {
+            "text": "Thanksgiving",
+            "emoji": "🦃",
+            "discovered": false
+        },
+        {
+            "text": "Christmas Tree",
+            "emoji": "🎄",
+            "discovered": false
+        },
+        {
+            "text": "Present",
+            "emoji": "🎁",
+            "discovered": false
+        },
+        {
+            "text": "Salty Treat",
+            "emoji": "🥨",
+            "discovered": true
+        },
+        {
+            "text": "Turkey",
+            "emoji": "🦃",
+            "discovered": false
+        },
+        {
+            "text": "Fairy",
+            "emoji": "🧚",
+            "discovered": false
+        },
+        {
+            "text": "Pie",
+            "emoji": "🥧",
+            "discovered": false
+        },
+        {
+            "text": "Pizza",
+            "emoji": "🍕",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Daddy",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Child",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Diabetic",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Coma",
+            "emoji": "😴",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Mama",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Baby",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Mommy",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Salsa Daddy",
+            "emoji": "💃",
+            "discovered": true
+        },
+        {
+            "text": "Sugar Momma",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Coma Daddy",
+            "emoji": "🤔",
+            "discovered": true
+        },
+        {
+            "text": "Mistletoe",
+            "emoji": "🎄",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Zeus",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Uncle",
+            "emoji": "👨‍👦‍",
+            "discovered": false
+        },
+        {
+            "text": "Nephew",
+            "emoji": "👦🏼",
+            "discovered": false
+        },
+        {
+            "text": "Artemis",
+            "emoji": "🌙",
+            "discovered": false
+        },
+        {
+            "text": "Aunt",
+            "emoji": "👩‍👧‍",
+            "discovered": false
+        },
+        {
+            "text": "Diana",
+            "emoji": "🌙",
+            "discovered": false
+        },
+        {
+            "text": "Ant",
+            "emoji": "🐜",
+            "discovered": false
+        },
+        {
+            "text": "Ant Hill",
+            "emoji": "🐜",
+            "discovered": false
+        },
+        {
+            "text": "Colony",
+            "emoji": "🏡",
+            "discovered": false
+        },
+        {
+            "text": "Sugar Hill",
+            "emoji": "🍭🏞️",
+            "discovered": false
+        },
+        {
+            "text": "Obama",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Intern",
+            "emoji": "🧑‍💼",
+            "discovered": false
+        },
+        {
+            "text": "Lobbyist",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Antichrist",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "White House",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Iron Maiden",
+            "emoji": "🤘",
+            "discovered": false
+        },
+        {
+            "text": "Antidiabetic",
+            "emoji": "💉🍬",
+            "discovered": false
+        },
+        {
+            "text": "Bikram",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Tantra",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Kama Sutra",
+            "emoji": "💋",
+            "discovered": false
+        },
+        {
+            "text": "Sex",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Orgasm",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Tantric Orgasm",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Tantric Sex",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Kama Sutra Claus",
+            "emoji": "🎅🏼🔞",
+            "discovered": false
+        },
+        {
+            "text": "Unpaid Intern",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Experience",
+            "emoji": "🎆",
+            "discovered": false
+        },
+        {
+            "text": "Expert",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Therapist",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Guru",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Life Coach",
+            "emoji": "🧘‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Tantra Coach",
+            "emoji": "🧘‍♀️",
+            "discovered": true
+        },
+        {
+            "text": "Masterbation",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Masturbation",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Guru-bation",
+            "emoji": "🤔",
+            "discovered": false
+        },
+        {
+            "text": "Guru-pist",
+            "emoji": "🧘‍♂️",
+            "discovered": true
+        },
+        {
+            "text": "Trance",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Dance",
+            "emoji": "💃",
+            "discovered": false
+        },
+        {
+            "text": "Psychologist",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Therapy",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Ecstasy",
+            "emoji": "💊",
+            "discovered": false
+        },
+        {
+            "text": "Tantric Drunk",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Pregnant",
+            "emoji": "🤰",
+            "discovered": false
+        },
+        {
+            "text": "Twins",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Threesome",
+            "emoji": "👬",
+            "discovered": false
+        },
+        {
+            "text": "Orgy",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Birthday",
+            "emoji": "🎂",
+            "discovered": false
+        },
+        {
+            "text": "Birthday Cake",
+            "emoji": "🎂",
+            "discovered": false
+        },
+        {
+            "text": "Guru-rave",
+            "emoji": "🕺",
+            "discovered": true
+        },
+        {
+            "text": "Birthday Party",
+            "emoji": "🎂",
+            "discovered": false
+        },
+        {
+            "text": "Tantric Orgy",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Whine",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Octopus",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Kraken",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Tentacle Porn",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Kraken Porn",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Hentai",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Squid",
+            "emoji": "🦑",
+            "discovered": false
+        },
+        {
+            "text": "Calamari",
+            "emoji": "🦑",
+            "discovered": false
+        },
+        {
+            "text": "Tentacle",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Anime",
+            "emoji": "👾",
+            "discovered": false
+        },
+        {
+            "text": "Manga",
+            "emoji": "📚",
+            "discovered": false
+        },
+        {
+            "text": "Comic",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Labor",
+            "emoji": "👷",
+            "discovered": false
+        },
+        {
+            "text": "Work",
+            "emoji": "💼",
+            "discovered": false
+        },
+        {
+            "text": "Comic Book",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Workday",
+            "emoji": "📅",
+            "discovered": false
+        },
+        {
+            "text": "Weekend",
+            "emoji": "🌞",
+            "discovered": false
+        },
+        {
+            "text": "Strike",
+            "emoji": "🎳",
+            "discovered": false
+        },
+        {
+            "text": "Storm",
+            "emoji": "⛈️",
+            "discovered": false
+        },
+        {
+            "text": "Thunderstorm",
+            "emoji": "⛈️",
+            "discovered": false
+        },
+        {
+            "text": "Hurricane",
+            "emoji": "🌀",
+            "discovered": false
+        },
+        {
+            "text": "Hurrication",
+            "emoji": "🌀",
+            "discovered": false
+        },
+        {
+            "text": "Tsunami",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Sick Day",
+            "emoji": "🤒",
+            "discovered": false
+        },
+        {
+            "text": "Sick Week",
+            "emoji": "🤒",
+            "discovered": false
+        },
+        {
+            "text": "Sick Month",
+            "emoji": "🤒",
+            "discovered": false
+        },
+        {
+            "text": "Sick Year",
+            "emoji": "🤒",
+            "discovered": false
+        },
+        {
+            "text": "Sick Century",
+            "emoji": "🚴‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Sick Tsunami",
+            "emoji": "🤒🌊",
+            "discovered": false
+        },
+        {
+            "text": "2020",
+            "emoji": "😷",
+            "discovered": false
+        },
+        {
+            "text": "202020",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "2021",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "20202020",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "202020202020",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "2020202020202020202",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "2041",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "4062",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "8124",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "16248",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "32496",
+            "emoji": "🌎",
+            "discovered": false
+        },
+        {
+            "text": "64992",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "129984",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "259968",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "202021",
+            "emoji": "😷",
+            "discovered": false
+        },
+        {
+            "text": "2022",
+            "emoji": "🪐",
+            "discovered": false
+        },
+        {
+            "text": "2020 Too",
+            "emoji": "😷",
+            "discovered": false
+        },
+        {
+            "text": "Clark Kent",
+            "emoji": "👔",
+            "discovered": false
+        },
+        {
+            "text": "Superhentai",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Triplets",
+            "emoji": "👯‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Quadruplets",
+            "emoji": "👯‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Octuplets",
+            "emoji": "🐙🐙🐙",
+            "discovered": false
+        },
+        {
+            "text": "12",
+            "emoji": "🔟",
+            "discovered": false
+        },
+        {
+            "text": "24 (12 is the number of the zodiac signs)",
+            "emoji": "🕛",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Chamber of Secrets",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Jail",
+            "emoji": "🚨",
+            "discovered": false
+        },
+        {
+            "text": "Azkaban",
+            "emoji": "🔒",
+            "discovered": false
+        },
+        {
+            "text": "Prison",
+            "emoji": "🔒",
+            "discovered": false
+        },
+        {
+            "text": "Punishment",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "Criminal",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Prisoner",
+            "emoji": "👮",
+            "discovered": false
+        },
+        {
+            "text": "Sirius Black",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Prisoner of Azkaban",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Time Turner",
+            "emoji": "⏰",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Prisoner of Azkaban",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Dodo",
+            "emoji": "🦤",
+            "discovered": false
+        },
+        {
+            "text": "Fawkes",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Snapchat",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Teenager",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Egg",
+            "emoji": "🥚",
+            "discovered": false
+        },
+        {
+            "text": "Fawkeschat",
+            "emoji": "🦊🗣️",
+            "discovered": false
+        },
+        {
+            "text": "Dark Lord",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Werewolf",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Lupin",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Best Friend",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Best Friendship",
+            "emoji": "👯",
+            "discovered": false
+        },
+        {
+            "text": "Brotherhood",
+            "emoji": "👬",
+            "discovered": false
+        },
+        {
+            "text": "Dumbledore’s Army",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "Order of the Phoenix",
+            "emoji": "🔥🦉",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter And The Order Of The Phoenix",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Gryffindor",
+            "emoji": "🦁",
+            "discovered": false
+        },
+        {
+            "text": "Steel",
+            "emoji": "🛠️",
+            "discovered": false
+        },
+        {
+            "text": "Rust",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Mirror",
+            "emoji": "🪞",
+            "discovered": false
+        },
+        {
+            "text": "Kaleidoscope",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "Prism",
+            "emoji": "🌈",
+            "discovered": false
+        },
+        {
+            "text": "Reflection",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Observatory",
+            "emoji": "🔭",
+            "discovered": false
+        },
+        {
+            "text": "Wolfman",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Camera",
+            "emoji": "📷",
+            "discovered": false
+        },
+        {
+            "text": "Photographer",
+            "emoji": "📷",
+            "discovered": false
+        },
+        {
+            "text": "Selfie",
+            "emoji": "🤳",
+            "discovered": false
+        },
+        {
+            "text": "Narcissus",
+            "emoji": "🌼",
+            "discovered": false
+        },
+        {
+            "text": "Astronomy",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Remus Lupin",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Moony",
+            "emoji": "🌙",
+            "discovered": false
+        },
+        {
+            "text": "Lunar",
+            "emoji": "🌕",
+            "discovered": false
+        },
+        {
+            "text": "Wolverine",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Brother",
+            "emoji": "👬",
+            "discovered": false
+        },
+        {
+            "text": "Mafia",
+            "emoji": "🔫",
+            "discovered": false
+        },
+        {
+            "text": "Hitman",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Assassin",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Snake Eyes",
+            "emoji": "🐍👀",
+            "discovered": false
+        },
+        {
+            "text": "Necromancer",
+            "emoji": "🧟",
+            "discovered": false
+        },
+        {
+            "text": "Potions",
+            "emoji": "🧪",
+            "discovered": false
+        },
+        {
+            "text": "Frankenstein",
+            "emoji": "🧟",
+            "discovered": false
+        },
+        {
+            "text": "Electricity",
+            "emoji": "⚡️",
+            "discovered": false
+        },
+        {
+            "text": "Invention",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Inspiration",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Multiverse",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Flood",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Van Gogh",
+            "emoji": "🎨",
+            "discovered": false
+        },
+        {
+            "text": "Starry Night",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Ear",
+            "emoji": "👂",
+            "discovered": false
+        },
+        {
+            "text": "Deadpool",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Cable",
+            "emoji": "📺",
+            "discovered": false
+        },
+        {
+            "text": "Headphone",
+            "emoji": "🎧",
+            "discovered": false
+        },
+        {
+            "text": "Radio",
+            "emoji": "📻",
+            "discovered": false
+        },
+        {
+            "text": "Internet",
+            "emoji": "🌐",
+            "discovered": false
+        },
+        {
+            "text": "Podcast",
+            "emoji": "🎙️",
+            "discovered": false
+        },
+        {
+            "text": "iPod",
+            "emoji": "🎧",
+            "discovered": false
+        },
+        {
+            "text": "Ipod Touch",
+            "emoji": "🎵",
+            "discovered": false
+        },
+        {
+            "text": "Ipad",
+            "emoji": "📱",
+            "discovered": false
+        },
+        {
+            "text": "Ipad Mini",
+            "emoji": "📱",
+            "discovered": false
+        },
+        {
+            "text": "Dj",
+            "emoji": "🎧",
+            "discovered": false
+        },
+        {
+            "text": "Song",
+            "emoji": "🎶",
+            "discovered": false
+        },
+        {
+            "text": "Cable Car",
+            "emoji": "🚡",
+            "discovered": false
+        },
+        {
+            "text": "Cable Dj",
+            "emoji": "🎧",
+            "discovered": false
+        },
+        {
+            "text": "Takoyaki",
+            "emoji": "🍤",
+            "discovered": false
+        },
+        {
+            "text": "Assassin’s Creed",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Assassin’s Creed Origins",
+            "emoji": "🐫",
+            "discovered": false
+        },
+        {
+            "text": "Assassin’s Creed Odyssey",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Red Army Potter",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Dobby",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "House Elf",
+            "emoji": "🧚‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Sponge",
+            "emoji": "🧽",
+            "discovered": false
+        },
+        {
+            "text": "Dobby’s Death",
+            "emoji": "💔",
+            "discovered": false
+        },
+        {
+            "text": "Dobby’s Grave",
+            "emoji": "⚰️",
+            "discovered": false
+        },
+        {
+            "text": "Dobbyweed",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Dobby is a free elf",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "SpongeBob",
+            "emoji": "🍍",
+            "discovered": false
+        },
+        {
+            "text": "Spongebob Squarepants",
+            "emoji": "🍍",
+            "discovered": false
+        },
+        {
+            "text": "Warlock",
+            "emoji": "🧙‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Hagrid",
+            "emoji": "🐾",
+            "discovered": false
+        },
+        {
+            "text": "Norbert",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Dragon Egg",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "?",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Norbert Prime",
+            "emoji": "🤖",
+            "discovered": true
+        },
+        {
+            "text": "Hanging",
+            "emoji": "🎣",
+            "discovered": false
+        },
+        {
+            "text": "Stonehenge",
+            "emoji": "🗿",
+            "discovered": false
+        },
+        {
+            "text": "Druid",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Ent",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Treebeard",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Colossus",
+            "emoji": "🏗️",
+            "discovered": false
+        },
+        {
+            "text": "Seaweed",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Lily Pad",
+            "emoji": "💐",
+            "discovered": false
+        },
+        {
+            "text": "Tadpole",
+            "emoji": "🐸",
+            "discovered": false
+        },
+        {
+            "text": "Dobby’s Socks",
+            "emoji": "🧦",
+            "discovered": true
+        },
+        {
+            "text": "Bonaparte",
+            "emoji": "🐒",
+            "discovered": false
+        },
+        {
+            "text": "Groot",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "SpongeGroot",
+            "emoji": "🌱",
+            "discovered": false
+        },
+        {
+            "text": "Dobby’s Freedom",
+            "emoji": "🧦🕊️",
+            "discovered": false
+        },
+        {
+            "text": "Sock",
+            "emoji": "🧦",
+            "discovered": false
+        },
+        {
+            "text": "Shoe",
+            "emoji": "👟",
+            "discovered": false
+        },
+        {
+            "text": "Boots",
+            "emoji": "👢",
+            "discovered": false
+        },
+        {
+            "text": "Shoes",
+            "emoji": "👟",
+            "discovered": false
+        },
+        {
+            "text": "Bootshoe",
+            "emoji": "👢",
+            "discovered": false
+        },
+        {
+            "text": "Boot",
+            "emoji": "👢",
+            "discovered": false
+        },
+        {
+            "text": "Birth",
+            "emoji": "👶",
+            "discovered": false
+        },
+        {
+            "text": "Pottermore",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Dramione",
+            "emoji": "💘",
+            "discovered": false
+        },
+        {
+            "text": "Pottermore Insider",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Foghorn",
+            "emoji": "📯",
+            "discovered": false
+        },
+        {
+            "text": "Foghorn Leghorn",
+            "emoji": "🐓",
+            "discovered": false
+        },
+        {
+            "text": "Leghorn",
+            "emoji": "🐓",
+            "discovered": false
+        },
+        {
+            "text": "Chicken",
+            "emoji": "🐔",
+            "discovered": false
+        },
+        {
+            "text": "Rooster",
+            "emoji": "🐓",
+            "discovered": false
+        },
+        {
+            "text": "Omelette",
+            "emoji": "🍳",
+            "discovered": false
+        },
+        {
+            "text": "Chicken Nugget",
+            "emoji": "🍗",
+            "discovered": false
+        },
+        {
+            "text": "Armageddon",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Deathly Hallows",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "Macbeth",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "J.K. Rowling",
+            "emoji": "💫",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Scottish Play",
+            "emoji": "🎭",
+            "discovered": false
+        },
+        {
+            "text": "Tree Ent",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Wood",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "Nail",
+            "emoji": "💅",
+            "discovered": false
+        },
+        {
+            "text": "Hammer",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Katana",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Yen",
+            "emoji": "💴",
+            "discovered": false
+        },
+        {
+            "text": "Bonsai",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Campfire",
+            "emoji": "🔥",
+            "discovered": false
+        },
+        {
+            "text": "Forge",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Blacksmith",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Warrior",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Flame",
+            "emoji": "🔥",
+            "discovered": false
+        },
+        {
+            "text": "River",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Paper",
+            "emoji": "📃",
+            "discovered": false
+        },
+        {
+            "text": "Book",
+            "emoji": "📚",
+            "discovered": false
+        },
+        {
+            "text": "Bookshelf",
+            "emoji": "📚",
+            "discovered": false
+        },
+        {
+            "text": "Gold Bar",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Bride",
+            "emoji": "👰",
+            "discovered": false
+        },
+        {
+            "text": "Splitting",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Library",
+            "emoji": "📚",
+            "discovered": false
+        },
+        {
+            "text": "Bottle",
+            "emoji": "🍾",
+            "discovered": false
+        },
+        {
+            "text": "Barrel",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Barstool",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Beer",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Alcohol",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Apple",
+            "emoji": "🍎",
+            "discovered": false
+        },
+        {
+            "text": "Apple Watch",
+            "emoji": "⌚️",
+            "discovered": false
+        },
+        {
+            "text": "Apple Watch Series 4",
+            "emoji": "⌚️",
+            "discovered": false
+        },
+        {
+            "text": "Apple Watch Series 5",
+            "emoji": "🍎",
+            "discovered": false
+        },
+        {
+            "text": "Pint",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Log",
+            "emoji": "🪵",
+            "discovered": false
+        },
+        {
+            "text": "Chopsticks",
+            "emoji": "🥢",
+            "discovered": false
+        },
+        {
+            "text": "Bowl",
+            "emoji": "🍜",
+            "discovered": false
+        },
+        {
+            "text": "Boat",
+            "emoji": "🚤",
+            "discovered": false
+        },
+        {
+            "text": "Cup",
+            "emoji": "🍶",
+            "discovered": false
+        },
+        {
+            "text": "Gargoyle",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Drink",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Cocktail",
+            "emoji": "🍸",
+            "discovered": false
+        },
+        {
+            "text": "Piggy Bank",
+            "emoji": "💰",
+            "discovered": false
+        },
+        {
+            "text": "Chalice",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Communion",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Mass",
+            "emoji": "💲",
+            "discovered": false
+        },
+        {
+            "text": "Coffee",
+            "emoji": "☕️",
+            "discovered": false
+        },
+        {
+            "text": "Goblet",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Mug",
+            "emoji": "☕️",
+            "discovered": false
+        },
+        {
+            "text": "Tea",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Teacup",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Teapot",
+            "emoji": "🍵",
+            "discovered": false
+        },
+        {
+            "text": "Butterbeer",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Firewater",
+            "emoji": "🔥💧",
+            "discovered": false
+        },
+        {
+            "text": "Dragonborn",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Happiness",
+            "emoji": "😃",
+            "discovered": false
+        },
+        {
+            "text": "Thorn",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Roseborn",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Hedgehog",
+            "emoji": "🦔",
+            "discovered": false
+        },
+        {
+            "text": "Sonic",
+            "emoji": "🎮",
+            "discovered": false
+        },
+        {
+            "text": "Park",
+            "emoji": "🏞️",
+            "discovered": false
+        },
+        {
+            "text": "Zoo",
+            "emoji": "🐘",
+            "discovered": false
+        },
+        {
+            "text": "Elephant",
+            "emoji": "🐘",
+            "discovered": false
+        },
+        {
+            "text": "Peanut",
+            "emoji": "🥜",
+            "discovered": false
+        },
+        {
+            "text": "Peanut Butter",
+            "emoji": "🥜",
+            "discovered": false
+        },
+        {
+            "text": "Reese’s",
+            "emoji": "🍫",
+            "discovered": false
+        },
+        {
+            "text": "Chocolate",
+            "emoji": "🍫",
+            "discovered": false
+        },
+        {
+            "text": "Cocoa",
+            "emoji": "🍫",
+            "discovered": false
+        },
+        {
+            "text": "Peanut Butter Cup",
+            "emoji": "🍫",
+            "discovered": false
+        },
+        {
+            "text": "Festival",
+            "emoji": "🎪",
+            "discovered": false
+        },
+        {
+            "text": "Carnival",
+            "emoji": "🎡",
+            "discovered": false
+        },
+        {
+            "text": "Fun",
+            "emoji": "🎈",
+            "discovered": false
+        },
+        {
+            "text": "Amusement Park",
+            "emoji": "🎡",
+            "discovered": false
+        },
+        {
+            "text": "Amusement",
+            "emoji": "🎡",
+            "discovered": false
+        },
+        {
+            "text": "Disneyland",
+            "emoji": "🎢",
+            "discovered": false
+        },
+        {
+            "text": "Snowglobe",
+            "emoji": "🌨️",
+            "discovered": false
+        },
+        {
+            "text": "Frost",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Onion",
+            "emoji": "🧅",
+            "discovered": false
+        },
+        {
+            "text": "Sando",
+            "emoji": "🥪",
+            "discovered": false
+        },
+        {
+            "text": "Sandy",
+            "emoji": "🏖️",
+            "discovered": false
+        },
+        {
+            "text": "Roller Coaster",
+            "emoji": "🎢",
+            "discovered": false
+        },
+        {
+            "text": "Freud",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Psychoanalysis",
+            "emoji": "🔬",
+            "discovered": false
+        },
+        {
+            "text": "Family Tree",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Beauxbatons",
+            "emoji": "🧙‍♀️🏰",
+            "discovered": false
+        },
+        {
+            "text": "Beauty",
+            "emoji": "💄",
+            "discovered": false
+        },
+        {
+            "text": "Fleur",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Fleur de Lis",
+            "emoji": "⚜️",
+            "discovered": false
+        },
+        {
+            "text": "Fleur Delacour",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Butterbeer Delacour",
+            "emoji": "🍺",
+            "discovered": true
+        },
+        {
+            "text": "Hermione Granger",
+            "emoji": "🧙‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Dovahkiin",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Siren",
+            "emoji": "🚨",
+            "discovered": false
+        },
+        {
+            "text": "Rum",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Daiquiri",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Amortentia",
+            "emoji": "🧪💕🌹",
+            "discovered": false
+        },
+        {
+            "text": "Love Potion",
+            "emoji": "🧪",
+            "discovered": false
+        },
+        {
+            "text": "Sphinxter",
+            "emoji": "🗿",
+            "discovered": false
+        },
+        {
+            "text": "Sphinx Delacour",
+            "emoji": "🔮",
+            "discovered": true
+        },
+        {
+            "text": "Game of Thrones",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Joffrey",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Poison",
+            "emoji": "☠️",
+            "discovered": false
+        },
+        {
+            "text": "Antidote",
+            "emoji": "💉",
+            "discovered": false
+        },
+        {
+            "text": "Psycho",
+            "emoji": "🔪",
+            "discovered": false
+        },
+        {
+            "text": "Professor",
+            "emoji": "👨‍🏫",
+            "discovered": false
+        },
+        {
+            "text": "Professor Delacour",
+            "emoji": "👩‍🏫",
+            "discovered": true
+        },
+        {
+            "text": "University",
+            "emoji": "🎓",
+            "discovered": false
+        },
+        {
+            "text": "Student",
+            "emoji": "🎓",
+            "discovered": false
+        },
+        {
+            "text": "Batman",
+            "emoji": "🦇",
+            "discovered": false
+        },
+        {
+            "text": "Dementor",
+            "emoji": "👻",
+            "discovered": false
+        },
+        {
+            "text": "Patronus",
+            "emoji": "🦊",
+            "discovered": false
+        },
+        {
+            "text": "Einstein",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Theory",
+            "emoji": "💡",
+            "discovered": false
+        },
+        {
+            "text": "Trophy",
+            "emoji": "🏆",
+            "discovered": false
+        },
+        {
+            "text": "Wizard of Oz",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "Wicked",
+            "emoji": "💚",
+            "discovered": false
+        },
+        {
+            "text": "Scientist",
+            "emoji": "🔬",
+            "discovered": false
+        },
+        {
+            "text": "Super Scientist",
+            "emoji": "🔬",
+            "discovered": false
+        },
+        {
+            "text": "Super Professor",
+            "emoji": "🧑‍🏫",
+            "discovered": false
+        },
+        {
+            "text": "Exam",
+            "emoji": "📝",
+            "discovered": false
+        },
+        {
+            "text": "F",
+            "emoji": "♀️",
+            "discovered": false
+        },
+        {
+            "text": "Biologist",
+            "emoji": "🔬",
+            "discovered": false
+        },
+        {
+            "text": "Test",
+            "emoji": "📝",
+            "discovered": false
+        },
+        {
+            "text": "A+",
+            "emoji": "💯",
+            "discovered": false
+        },
+        {
+            "text": "A++",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "A+++",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "A++++",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "A+F",
+            "emoji": "🆎",
+            "discovered": false
+        },
+        {
+            "text": "Bat Patronus",
+            "emoji": "🦇",
+            "discovered": false
+        },
+        {
+            "text": "Relativity",
+            "emoji": "🌌",
+            "discovered": false
+        },
+        {
+            "text": "Smile",
+            "emoji": "😊",
+            "discovered": false
+        },
+        {
+            "text": "Joy",
+            "emoji": "😃",
+            "discovered": false
+        },
+        {
+            "text": "Snowflake",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Wicked Thrones",
+            "emoji": "🗡️👑",
+            "discovered": false
+        },
+        {
+            "text": "Mad Scientist",
+            "emoji": "🔬",
+            "discovered": false
+        },
+        {
+            "text": "Deathly Hallows",
+            "emoji": "☠️",
+            "discovered": false
+        },
+        {
+            "text": "Deatheaux",
+            "emoji": "💀",
+            "discovered": true
+        },
+        {
+            "text": "Death Fleur",
+            "emoji": "💀🌸",
+            "discovered": true
+        },
+        {
+            "text": "Battle of Hogwarts",
+            "emoji": "⚡️🧙‍",
+            "discovered": false
+        },
+        {
+            "text": "Deathaux",
+            "emoji": "💀",
+            "discovered": true
+        },
+        {
+            "text": "Deathaux Eaters",
+            "emoji": "⚡️",
+            "discovered": true
+        },
+        {
+            "text": "Broom",
+            "emoji": "🧹",
+            "discovered": false
+        },
+        {
+            "text": "Harry Potter and the Goblet of Fire",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Ent-Onion Rings",
+            "emoji": "🧝‍♂️",
+            "discovered": true
+        },
+        {
+            "text": "Ring",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Hobbit",
+            "emoji": "🍄",
+            "discovered": false
+        },
+        {
+            "text": "Gollum",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "Crown",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "Bilbo",
+            "emoji": "🐣",
+            "discovered": false
+        },
+        {
+            "text": "Lord of the Rings",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "Frodo",
+            "emoji": "🍏",
+            "discovered": false
+        },
+        {
+            "text": "Sauron",
+            "emoji": "👹",
+            "discovered": false
+        },
+        {
+            "text": "One Ring",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Mordor",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Mount Doom",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Samwise",
+            "emoji": "🐝",
+            "discovered": false
+        },
+        {
+            "text": "Aragorn",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Gondor",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Barad-dur",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Orthanc",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Palantir",
+            "emoji": "🔮",
+            "discovered": false
+        },
+        {
+            "text": "Eye of Sauron",
+            "emoji": "🔥👁️",
+            "discovered": false
+        },
+        {
+            "text": "Entrapment",
+            "emoji": "😱",
+            "discovered": false
+        },
+        {
+            "text": "Baggins",
+            "emoji": "🍀",
+            "discovered": false
+        },
+        {
+            "text": "Fellowship",
+            "emoji": "👬",
+            "discovered": false
+        },
+        {
+            "text": "Fellowship of the Ring",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "The Two Towers",
+            "emoji": "🌉",
+            "discovered": false
+        },
+        {
+            "text": "The Return Of The King",
+            "emoji": "👑",
+            "discovered": false
+        },
+        {
+            "text": "The Lord Of The Rings",
+            "emoji": "🌳",
+            "discovered": false
+        },
+        {
+            "text": "The One Ring",
+            "emoji": "💍",
+            "discovered": false
+        },
+        {
+            "text": "Smeagol",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "The Hobbit",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "The Hobbit: An Unexpected Journey",
+            "emoji": "🐉",
+            "discovered": false
+        },
+        {
+            "text": "The Return Of The Gollum",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Staff",
+            "emoji": "💼",
+            "discovered": false
+        },
+        {
+            "text": "Indiana Jones",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Whip",
+            "emoji": "🐳",
+            "discovered": false
+        },
+        {
+            "text": "Adventure",
+            "emoji": "🏕️",
+            "discovered": false
+        },
+        {
+            "text": "Temple of Doom",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Raiders Of The Lost Ark",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Harrison Ford",
+            "emoji": "🤠",
+            "discovered": false
+        },
+        {
+            "text": "Lasso",
+            "emoji": "🤠",
+            "discovered": false
+        },
+        {
+            "text": "Rope",
+            "emoji": "🧗",
+            "discovered": false
+        },
+        {
+            "text": "Ladder",
+            "emoji": "🪜",
+            "discovered": false
+        },
+        {
+            "text": "Bridge",
+            "emoji": "🌉",
+            "discovered": false
+        },
+        {
+            "text": "Escape",
+            "emoji": "🏃",
+            "discovered": false
+        },
+        {
+            "text": "Hide",
+            "emoji": "🙈",
+            "discovered": false
+        },
+        {
+            "text": "Leather",
+            "emoji": "👜",
+            "discovered": false
+        },
+        {
+            "text": "Slipper",
+            "emoji": "🥾",
+            "discovered": false
+        },
+        {
+            "text": "Dorothy",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "Cobbler",
+            "emoji": "🍰",
+            "discovered": false
+        },
+        {
+            "text": "Ruby Slippers",
+            "emoji": "👠",
+            "discovered": false
+        },
+        {
+            "text": "Ruby",
+            "emoji": "💎",
+            "discovered": false
+        },
+        {
+            "text": "Slippers",
+            "emoji": "👡",
+            "discovered": false
+        },
+        {
+            "text": "Lion",
+            "emoji": "🦁",
+            "discovered": false
+        },
+        {
+            "text": "Narnia",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Aslan",
+            "emoji": "🦁",
+            "discovered": false
+        },
+        {
+            "text": "Oz",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "White Witch",
+            "emoji": "🧙‍♀️",
+            "discovered": false
+        },
+        {
+            "text": "Elsa",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Ice",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Winter",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Wardrobe",
+            "emoji": "👗",
+            "discovered": false
+        },
+        {
+            "text": "Snow Queen",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Snow White",
+            "emoji": "🍎",
+            "discovered": false
+        },
+        {
+            "text": "Snow Rose",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Snowball",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Cinderella",
+            "emoji": "👠",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread Man",
+            "emoji": "🍪",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread House",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread Castle",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Snow Castle",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread City",
+            "emoji": "🏙️",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread Kingdom",
+            "emoji": "🍪",
+            "discovered": false
+        },
+        {
+            "text": "Hansel and Gretel",
+            "emoji": "🍭",
+            "discovered": false
+        },
+        {
+            "text": "Gingerbread",
+            "emoji": "🍪",
+            "discovered": false
+        },
+        {
+            "text": "Birth Control",
+            "emoji": "💊",
+            "discovered": false
+        },
+        {
+            "text": "Population",
+            "emoji": "🏙️",
+            "discovered": false
+        },
+        {
+            "text": "Overpopulation",
+            "emoji": "🌏",
+            "discovered": false
+        },
+        {
+            "text": "Porn",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Snowpocalypse",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Snowporn",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Caspian",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Nessie",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Snow White and the Huntsman",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "Sleeping Beauty",
+            "emoji": "💤",
+            "discovered": false
+        },
+        {
+            "text": "Sleeping White",
+            "emoji": "💤",
+            "discovered": false
+        },
+        {
+            "text": "Sleeping Beauty and the Beast",
+            "emoji": "💤",
+            "discovered": false
+        },
+        {
+            "text": "Caspian Sea",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Sea",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Ship",
+            "emoji": "🚢",
+            "discovered": false
+        },
+        {
+            "text": "Cruise",
+            "emoji": "🚢",
+            "discovered": false
+        },
+        {
+            "text": "Vacation",
+            "emoji": "🏖️",
+            "discovered": false
+        },
+        {
+            "text": "Captain",
+            "emoji": "🧑‍✈️",
+            "discovered": false
+        },
+        {
+            "text": "Tom",
+            "emoji": "🐱",
+            "discovered": false
+        },
+        {
+            "text": "Tom Hanks",
+            "emoji": "🤠",
+            "discovered": false
+        },
+        {
+            "text": "Forrest Gump",
+            "emoji": "🏃",
+            "discovered": false
+        },
+        {
+            "text": "Oscar",
+            "emoji": "🏆",
+            "discovered": false
+        },
+        {
+            "text": "Hanks",
+            "emoji": "🤗",
+            "discovered": false
+        },
+        {
+            "text": "Gilligan",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Gilligan’s Island",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Wilson",
+            "emoji": "🏐",
+            "discovered": false
+        },
+        {
+            "text": "Forest Gump",
+            "emoji": "🏃",
+            "discovered": false
+        },
+        {
+            "text": "Forest Fire",
+            "emoji": "🔥",
+            "discovered": false
+        },
+        {
+            "text": "Gorby",
+            "emoji": "🦍",
+            "discovered": false
+        },
+        {
+            "text": "Gorbag",
+            "emoji": "🐵",
+            "discovered": false
+        },
+        {
+            "text": "Stalin Hanks",
+            "emoji": "🤔",
+            "discovered": false
+        },
+        {
+            "text": "Smokey the Bear",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Smokey Stalin",
+            "emoji": "🚭",
+            "discovered": true
+        },
+        {
+            "text": "Forest Stalin",
+            "emoji": "🌲👨‍",
+            "discovered": false
+        },
+        {
+            "text": "Cold War",
+            "emoji": "🥶",
+            "discovered": false
+        },
+        {
+            "text": "Bridge of Spies",
+            "emoji": "🕵️‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Bridge Of Forest Gump",
+            "emoji": "🏃‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Sail",
+            "emoji": "⛵️",
+            "discovered": false
+        },
+        {
+            "text": "Sailboat",
+            "emoji": "⛵️",
+            "discovered": false
+        },
+        {
+            "text": "Ice Age",
+            "emoji": "🧊",
+            "discovered": false
+        },
+        {
+            "text": "Iceberg",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Glacier",
+            "emoji": "❄️",
+            "discovered": false
+        },
+        {
+            "text": "Titanic",
+            "emoji": "🚢",
+            "discovered": false
+        },
+        {
+            "text": "Sinking",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Forest Titanic",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "Jack",
+            "emoji": "🃏",
+            "discovered": false
+        },
+        {
+            "text": "Sparrow",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Shipwreck",
+            "emoji": "🚢",
+            "discovered": false
+        },
+        {
+            "text": "Albatross",
+            "emoji": "🦅",
+            "discovered": false
+        },
+        {
+            "text": "Caspian Tern",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Bird",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Flock",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Herd",
+            "emoji": "🐑",
+            "discovered": false
+        },
+        {
+            "text": "Herdic",
+            "emoji": "🚕",
+            "discovered": false
+        },
+        {
+            "text": "Herd Immunity",
+            "emoji": "💉",
+            "discovered": false
+        },
+        {
+            "text": "Herd Mentality",
+            "emoji": "🐑",
+            "discovered": false
+        },
+        {
+            "text": "Herdic Immunity",
+            "emoji": "🦠",
+            "discovered": true
+        },
+        {
+            "text": "Bible",
+            "emoji": "📖",
+            "discovered": false
+        },
+        {
+            "text": "Spiderman",
+            "emoji": "🕷️",
+            "discovered": false
+        },
+        {
+            "text": "Da Vinci Code",
+            "emoji": "🔢",
+            "discovered": false
+        },
+        {
+            "text": "The Da Vinci Code",
+            "emoji": "📖",
+            "discovered": false
+        },
+        {
+            "text": "Spiderbirdman",
+            "emoji": "🕸️",
+            "discovered": false
+        },
+        {
+            "text": "Ironman",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Iron Sparrow",
+            "emoji": "🐦",
+            "discovered": false
+        },
+        {
+            "text": "Ironhorse",
+            "emoji": "🐎",
+            "discovered": false
+        },
+        {
+            "text": "Spider-Herd",
+            "emoji": "🕷️🐄",
+            "discovered": false
+        },
+        {
+            "text": "Iron Curtain",
+            "emoji": "🇷🇺",
+            "discovered": false
+        },
+        {
+            "text": "Iron Spider",
+            "emoji": "🕷️",
+            "discovered": false
+        },
+        {
+            "text": "Berlin Wall",
+            "emoji": "🧱🇩🇪",
+            "discovered": false
+        },
+        {
+            "text": "Fall",
+            "emoji": "🍂",
+            "discovered": false
+        },
+        {
+            "text": "Fall Of Great Wall Of China",
+            "emoji": "🏰",
+            "discovered": false
+        },
+        {
+            "text": "Germany",
+            "emoji": "🇩🇪",
+            "discovered": false
+        },
+        {
+            "text": "Unity",
+            "emoji": "💛",
+            "discovered": false
+        },
+        {
+            "text": "Berlin",
+            "emoji": "🇩🇪",
+            "discovered": false
+        },
+        {
+            "text": "Acropolis",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Athens",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Lighthouse",
+            "emoji": "🌅",
+            "discovered": false
+        },
+        {
+            "text": "Trafalgar",
+            "emoji": "⚓️",
+            "discovered": false
+        },
+        {
+            "text": "Square",
+            "emoji": "🟦",
+            "discovered": false
+        },
+        {
+            "text": "Parthenon",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Tetris",
+            "emoji": "🧱",
+            "discovered": false
+        },
+        {
+            "text": "Herdtris",
+            "emoji": "🐘",
+            "discovered": false
+        },
+        {
+            "text": "Market",
+            "emoji": "🏪",
+            "discovered": false
+        },
+        {
+            "text": "Walmart",
+            "emoji": "🛒",
+            "discovered": false
+        },
+        {
+            "text": "Sweatshop",
+            "emoji": "🏭",
+            "discovered": false
+        },
+        {
+            "text": "iPhone",
+            "emoji": "📱",
+            "discovered": false
+        },
+        {
+            "text": "Factory",
+            "emoji": "🏭",
+            "discovered": false
+        },
+        {
+            "text": "Mall",
+            "emoji": "🛍️",
+            "discovered": false
+        },
+        {
+            "text": "Mallmart",
+            "emoji": "🛒",
+            "discovered": false
+        },
+        {
+            "text": "Iphone 5",
+            "emoji": "📱",
+            "discovered": false
+        },
+        {
+            "text": "Ithena",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Black Friday",
+            "emoji": "🛍️",
+            "discovered": false
+        },
+        {
+            "text": "Black Trafalgar",
+            "emoji": "🏴‍☠️",
+            "discovered": true
+        },
+        {
+            "text": "Aldi",
+            "emoji": "🛒",
+            "discovered": false
+        },
+        {
+            "text": "Autumn",
+            "emoji": "🍂",
+            "discovered": false
+        },
+        {
+            "text": "Leaf",
+            "emoji": "🍃",
+            "discovered": false
+        },
+        {
+            "text": "Palm Tree",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Leaves",
+            "emoji": "🍃",
+            "discovered": false
+        },
+        {
+            "text": "Palm Leaves",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Coconut",
+            "emoji": "🥥",
+            "discovered": false
+        },
+        {
+            "text": "Palm",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Palm Sunday",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Miami",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Miami Vice",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Don Johnson",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Christ",
+            "emoji": "👼",
+            "discovered": false
+        },
+        {
+            "text": "Coco",
+            "emoji": "🎃",
+            "discovered": false
+        },
+        {
+            "text": "Palmolive",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Soap",
+            "emoji": "🧼",
+            "discovered": false
+        },
+        {
+            "text": "Bubble",
+            "emoji": "💬",
+            "discovered": false
+        },
+        {
+            "text": "Dishwashing",
+            "emoji": "🧽",
+            "discovered": false
+        },
+        {
+            "text": "Palm Beach",
+            "emoji": "🌴",
+            "discovered": false
+        },
+        {
+            "text": "Bubble Beach",
+            "emoji": "🏖️",
+            "discovered": false
+        },
+        {
+            "text": "Fish Bowl",
+            "emoji": "🐠",
+            "discovered": false
+        },
+        {
+            "text": "Bubbles",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Vice",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Casino",
+            "emoji": "🎰",
+            "discovered": false
+        },
+        {
+            "text": "Prostitute",
+            "emoji": "💋",
+            "discovered": false
+        },
+        {
+            "text": "Brothel",
+            "emoji": "💋",
+            "discovered": false
+        },
+        {
+            "text": "Red Light District",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Las Vegas",
+            "emoji": "🎰",
+            "discovered": false
+        },
+        {
+            "text": "Sin City",
+            "emoji": "🎰",
+            "discovered": false
+        },
+        {
+            "text": "Gambling",
+            "emoji": "🎰",
+            "discovered": false
+        },
+        {
+            "text": "Gambler",
+            "emoji": "🎲",
+            "discovered": false
+        },
+        {
+            "text": "Pimp",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Business",
+            "emoji": "💼",
+            "discovered": false
+        },
+        {
+            "text": "Dishonesty",
+            "emoji": "🤥",
+            "discovered": false
+        },
+        {
+            "text": "Rapper",
+            "emoji": "🎤",
+            "discovered": false
+        },
+        {
+            "text": "Tupac",
+            "emoji": "🌹",
+            "discovered": false
+        },
+        {
+            "text": "Coconut Water",
+            "emoji": "🥥",
+            "discovered": false
+        },
+        {
+            "text": "Inquisition",
+            "emoji": "🔍",
+            "discovered": false
+        },
+        {
+            "text": "Coconut Milk",
+            "emoji": "🥥",
+            "discovered": false
+        },
+        {
+            "text": "Piña Colada",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Snoop Dogg",
+            "emoji": "🐶",
+            "discovered": false
+        },
+        {
+            "text": "Poker Face",
+            "emoji": "😶",
+            "discovered": false
+        },
+        {
+            "text": "CEO",
+            "emoji": "👔",
+            "discovered": false
+        },
+        {
+            "text": "Snoop Trump",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Eminem",
+            "emoji": "🎤",
+            "discovered": false
+        },
+        {
+            "text": "Dogg",
+            "emoji": "🐶",
+            "discovered": false
+        },
+        {
+            "text": "Slim Shady",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "Marshall Mathers",
+            "emoji": "🎤",
+            "discovered": false
+        },
+        {
+            "text": "Retronin",
+            "emoji": "🕹️",
+            "discovered": false
+        },
+        {
+            "text": "Reagan",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Bestard",
+            "emoji": "🤠",
+            "discovered": false
+        },
+        {
+            "text": "Colosseum",
+            "emoji": "🏟️",
+            "discovered": false
+        },
+        {
+            "text": "Tourist",
+            "emoji": "🏝️",
+            "discovered": false
+        },
+        {
+            "text": "Arena",
+            "emoji": "🏟️",
+            "discovered": false
+        },
+        {
+            "text": "Mt. Rushmore",
+            "emoji": "🗻",
+            "discovered": false
+        },
+        {
+            "text": "Shrine",
+            "emoji": "🛕",
+            "discovered": false
+        },
+        {
+            "text": "Prayer",
+            "emoji": "🙏",
+            "discovered": false
+        },
+        {
+            "text": "Monk",
+            "emoji": "🧘‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Monastery",
+            "emoji": "🏯",
+            "discovered": false
+        },
+        {
+            "text": "Cathedral",
+            "emoji": "⛪",
+            "discovered": false
+        },
+        {
+            "text": "8 Mile",
+            "emoji": "🚗",
+            "discovered": false
+        },
+        {
+            "text": "Mt. Ironmore",
+            "emoji": "🏔️",
+            "discovered": false
+        },
+        {
+            "text": "Snoop Irony Dogg",
+            "emoji": "🐶",
+            "discovered": false
+        },
+        {
+            "text": "Sarcophagus",
+            "emoji": "🪦",
+            "discovered": false
+        },
+        {
+            "text": "Alanis Morissette",
+            "emoji": "☔️",
+            "discovered": false
+        },
+        {
+            "text": "Spanish Inquisition",
+            "emoji": "😈",
+            "discovered": false
+        },
+        {
+            "text": "Rusty",
+            "emoji": "🔨",
+            "discovered": false
+        },
+        {
+            "text": "Community",
+            "emoji": "👥",
+            "discovered": false
+        },
+        {
+            "text": "Reddit",
+            "emoji": "👾",
+            "discovered": false
+        },
+        {
+            "text": "Karma",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "Good Karma",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Great Karma",
+            "emoji": "🌟",
+            "discovered": false
+        },
+        {
+            "text": "Great Community",
+            "emoji": "👍",
+            "discovered": true
+        },
+        {
+            "text": "Bank",
+            "emoji": "💰",
+            "discovered": false
+        },
+        {
+            "text": "Wall Street",
+            "emoji": "🏦",
+            "discovered": false
+        },
+        {
+            "text": "Crisis",
+            "emoji": "😱",
+            "discovered": false
+        },
+        {
+            "text": "Catastrophe",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Profit",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "More Profit",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Paper Boat",
+            "emoji": "🚣",
+            "discovered": false
+        },
+        {
+            "text": "Tomb",
+            "emoji": "🪦",
+            "discovered": false
+        },
+        {
+            "text": "Washington",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "George",
+            "emoji": "🐒",
+            "discovered": false
+        },
+        {
+            "text": "Riddle",
+            "emoji": "🧩",
+            "discovered": false
+        },
+        {
+            "text": "George Orwell",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "1984",
+            "emoji": "📚",
+            "discovered": false
+        },
+        {
+            "text": "Orwell",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Curious George",
+            "emoji": "🐒",
+            "discovered": false
+        },
+        {
+            "text": "Greenland",
+            "emoji": "🇬🇱",
+            "discovered": false
+        },
+        {
+            "text": "California Roll",
+            "emoji": "🍣",
+            "discovered": false
+        },
+        {
+            "text": "San Francisco",
+            "emoji": "🌁",
+            "discovered": false
+        },
+        {
+            "text": "Transamerica Pyramid",
+            "emoji": "🗼",
+            "discovered": false
+        },
+        {
+            "text": "Cable Guy",
+            "emoji": "📺",
+            "discovered": false
+        },
+        {
+            "text": "Cable Dj Guy",
+            "emoji": "🎧",
+            "discovered": true
+        },
+        {
+            "text": "Monkey Roll",
+            "emoji": "🐒",
+            "discovered": false
+        },
+        {
+            "text": "Earthquake",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "San Andreas",
+            "emoji": "🌋",
+            "discovered": false
+        },
+        {
+            "text": "Lincoln",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Bankruptcy",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Bankrupt",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Joker",
+            "emoji": "🃏",
+            "discovered": false
+        },
+        {
+            "text": "GTA",
+            "emoji": "🚗",
+            "discovered": false
+        },
+        {
+            "text": "Bruce Wayne",
+            "emoji": "🦇",
+            "discovered": false
+        },
+        {
+            "text": "Robin",
+            "emoji": "🦇",
+            "discovered": false
+        },
+        {
+            "text": "Arkham",
+            "emoji": "🦇",
+            "discovered": false
+        },
+        {
+            "text": "Watch Dogs",
+            "emoji": "🐕",
+            "discovered": false
+        },
+        {
+            "text": "Watch Dogs 2",
+            "emoji": "🕹️",
+            "discovered": false
+        },
+        {
+            "text": "Gta V",
+            "emoji": "🎮",
+            "discovered": false
+        },
+        {
+            "text": "Arkham Knight",
+            "emoji": "🎮",
+            "discovered": false
+        },
+        {
+            "text": "Abe",
+            "emoji": "🐻",
+            "discovered": false
+        },
+        {
+            "text": "Penny",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Dime",
+            "emoji": "💲",
+            "discovered": false
+        },
+        {
+            "text": "Nickel",
+            "emoji": "🪙",
+            "discovered": false
+        },
+        {
+            "text": "Dollar",
+            "emoji": "💵",
+            "discovered": false
+        },
+        {
+            "text": "Pennywise",
+            "emoji": "🤡",
+            "discovered": false
+        },
+        {
+            "text": "Clown",
+            "emoji": "🤡",
+            "discovered": false
+        },
+        {
+            "text": "Juggler",
+            "emoji": "🤹",
+            "discovered": false
+        },
+        {
+            "text": "Trevor",
+            "emoji": "🐍",
+            "discovered": false
+        },
+        {
+            "text": "Rampage",
+            "emoji": "🐊",
+            "discovered": false
+        },
+        {
+            "text": "Magician",
+            "emoji": "🎩",
+            "discovered": false
+        },
+        {
+            "text": "Abe Lincoln",
+            "emoji": "🗽",
+            "discovered": false
+        },
+        {
+            "text": "Civil War",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Gettysburg",
+            "emoji": "🏛️",
+            "discovered": false
+        },
+        {
+            "text": "Cold Gettysburg",
+            "emoji": "❄️🏞️🔫",
+            "discovered": false
+        },
+        {
+            "text": "Address",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Platform 9 3/4",
+            "emoji": "🚆",
+            "discovered": false
+        },
+        {
+            "text": "Cable Company",
+            "emoji": "📺💻📞",
+            "discovered": false
+        },
+        {
+            "text": "Angry",
+            "emoji": "😠",
+            "discovered": false
+        },
+        {
+            "text": "Customer",
+            "emoji": "💁",
+            "discovered": false
+        },
+        {
+            "text": "Manager",
+            "emoji": "👔",
+            "discovered": false
+        },
+        {
+            "text": "Monopoly",
+            "emoji": "🎲",
+            "discovered": false
+        },
+        {
+            "text": "Animal Farm",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Farmopoly",
+            "emoji": "🐄",
+            "discovered": false
+        },
+        {
+            "text": "Property",
+            "emoji": "🏠",
+            "discovered": false
+        },
+        {
+            "text": "Tax",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Cable Tax",
+            "emoji": "💸",
+            "discovered": true
+        },
+        {
+            "text": "Cable Bill",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Taxes",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Banker",
+            "emoji": "💼",
+            "discovered": false
+        },
+        {
+            "text": "Slavery",
+            "emoji": "⛓️",
+            "discovered": false
+        },
+        {
+            "text": "Abolition",
+            "emoji": "🗡️",
+            "discovered": false
+        },
+        {
+            "text": "Slaxtax",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Sashimi",
+            "emoji": "🍣",
+            "discovered": false
+        },
+        {
+            "text": "Cross",
+            "emoji": "✝️",
+            "discovered": false
+        },
+        {
+            "text": "Ithrave",
+            "emoji": "🤔",
+            "discovered": false
+        },
+        {
+            "text": "Full Moon",
+            "emoji": "🌕",
+            "discovered": false
+        },
+        {
+            "text": "Wolf",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Legendary Party",
+            "emoji": "🎊",
+            "discovered": false
+        },
+        {
+            "text": "Werewolf Party",
+            "emoji": "🐺",
+            "discovered": false
+        },
+        {
+            "text": "Sandstorm",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "Dust Storm",
+            "emoji": "🌪️",
+            "discovered": false
+        },
+        {
+            "text": "Wooden Titanic",
+            "emoji": "🛳️",
+            "discovered": false
+        },
+        {
+            "text": "Tree Titanic",
+            "emoji": "🌳⛴️",
+            "discovered": false
+        },
+        {
+            "text": "2Pac",
+            "emoji": "🎤",
+            "discovered": false
+        },
+        {
+            "text": "Oil",
+            "emoji": "🛢️",
+            "discovered": false
+        },
+        {
+            "text": "Salad",
+            "emoji": "🥗",
+            "discovered": false
+        },
+        {
+            "text": "Diet",
+            "emoji": "🍎",
+            "discovered": false
+        },
+        {
+            "text": "Tequila",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Dressing",
+            "emoji": "👗",
+            "discovered": false
+        },
+        {
+            "text": "Margarita",
+            "emoji": "🍹",
+            "discovered": false
+        },
+        {
+            "text": "Keto",
+            "emoji": "🍗",
+            "discovered": false
+        },
+        {
+            "text": "Skinny",
+            "emoji": "🙍‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Anorexia",
+            "emoji": "🍝",
+            "discovered": false
+        },
+        {
+            "text": "Salad Fingers",
+            "emoji": "👋",
+            "discovered": false
+        },
+        {
+            "text": "Dusty Fingers",
+            "emoji": "👆",
+            "discovered": false
+        },
+        {
+            "text": "Ketogenic Party",
+            "emoji": "🎉",
+            "discovered": true
+        },
+        {
+            "text": "Fat",
+            "emoji": "🐷",
+            "discovered": false
+        },
+        {
+            "text": "Average",
+            "emoji": "😐",
+            "discovered": false
+        },
+        {
+            "text": "Record Collector",
+            "emoji": "🎶📀",
+            "discovered": false
+        },
+        {
+            "text": "Vinyl",
+            "emoji": "💿",
+            "discovered": false
+        },
+        {
+            "text": "Record",
+            "emoji": "📀",
+            "discovered": false
+        },
+        {
+            "text": "Fatboy Slim",
+            "emoji": "🎶",
+            "discovered": false
+        },
+        {
+            "text": "Slim",
+            "emoji": "🧍‍♂️",
+            "discovered": false
+        },
+        {
+            "text": "Slimy",
+            "emoji": "🐌",
+            "discovered": false
+        },
+        {
+            "text": "Slime",
+            "emoji": "💧",
+            "discovered": false
+        },
+        {
+            "text": "Slimy Salad",
+            "emoji": "🥗",
+            "discovered": false
+        },
+        {
+            "text": "Slimey",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Jelly",
+            "emoji": "🍯",
+            "discovered": false
+        },
+        {
+            "text": "Jellybeer",
+            "emoji": "🍺",
+            "discovered": false
+        },
+        {
+            "text": "Jellyfish",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Electric Jellyfish",
+            "emoji": "🌊",
+            "discovered": false
+        },
+        {
+            "text": "Electric Eel",
+            "emoji": "🦎",
+            "discovered": false
+        },
+        {
+            "text": "Jam",
+            "emoji": "🍯",
+            "discovered": false
+        },
+        {
+            "text": "Buddha Fingers",
+            "emoji": "🤏",
+            "discovered": false
+        },
+        {
+            "text": "Wife",
+            "emoji": "👰",
+            "discovered": false
+        },
+        {
+            "text": "Arrogance",
+            "emoji": "💅",
+            "discovered": false
+        },
+        {
+            "text": "Rage",
+            "emoji": "😡",
+            "discovered": false
+        },
+        {
+            "text": "Fury",
+            "emoji": "😠",
+            "discovered": false
+        },
+        {
+            "text": "Anger",
+            "emoji": "😠",
+            "discovered": false
+        },
+        {
+            "text": "11",
+            "emoji": "🔟",
+            "discovered": false
+        },
+        {
+            "text": "Spartacus",
+            "emoji": "🏹",
+            "discovered": false
+        },
+        {
+            "text": "Assassin’s Creed III",
+            "emoji": "🌲",
+            "discovered": false
+        },
+        {
+            "text": "Assassin’s Creed Iv",
+            "emoji": "🏴‍☠️",
+            "discovered": false
+        },
+        {
+            "text": "Black Flag",
+            "emoji": "🏴‍☠️",
+            "discovered": false
+        },
+        {
+            "text": "Ezio",
+            "emoji": "🎩",
+            "discovered": false
+        },
+        {
+            "text": "Holy Grail",
+            "emoji": "🍷",
+            "discovered": false
+        },
+        {
+            "text": "Terracotta Jones",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Smashed Vase",
+            "emoji": "💥",
+            "discovered": false
+        },
+        {
+            "text": "Venus de Milo",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Terracotta Venus",
+            "emoji": "🏺",
+            "discovered": false
+        },
+        {
+            "text": "Antkraken",
+            "emoji": "🐙",
+            "discovered": false
+        },
+        {
+            "text": "Tail",
+            "emoji": "🐢",
+            "discovered": false
+        },
+        {
+            "text": "Philosoraptor",
+            "emoji": "🦖",
+            "discovered": false
+        },
+        {
+            "text": "Apple Watch Series 8",
+            "emoji": "📱",
+            "discovered": false
+        },
+        {
+            "text": "Toxic",
+            "emoji": "☠️",
+            "discovered": false
+        },
+        {
+            "text": "Venom",
+            "emoji": "🕷️",
+            "discovered": false
+        },
+        {
+            "text": "Checkers",
+            "emoji": "🎮",
+            "discovered": false
+        },
+        {
+            "text": "Stalemate",
+            "emoji": "🤝",
+            "discovered": false
+        },
+        {
+            "text": "Sickle",
+            "emoji": "⚒️",
+            "discovered": false
+        },
+        {
+            "text": "Constitution",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Error",
+            "emoji": "🚫",
+            "discovered": false
+        },
+        {
+            "text": "Flowers",
+            "emoji": "🌸",
+            "discovered": false
+        },
+        {
+            "text": "Yacht",
+            "emoji": "🛥️",
+            "discovered": false
+        },
+        {
+            "text": "Cruise Ship",
+            "emoji": "🛳️",
+            "discovered": false
+        },
+        {
+            "text": "Oil Drum",
+            "emoji": "🛢️",
+            "discovered": false
+        },
+        {
+            "text": "Oil Barrel",
+            "emoji": "🛢️",
+            "discovered": false
+        },
+        {
+            "text": "Oil Tanker",
+            "emoji": "🛢️",
+            "discovered": false
+        },
+        {
+            "text": "Oil Spill",
+            "emoji": "💦",
+            "discovered": false
+        },
+        {
+            "text": "Cheap",
+            "emoji": "💸",
+            "discovered": false
+        },
+        {
+            "text": "Errormaid",
+            "emoji": "💩",
+            "discovered": false
+        },
+        {
+            "text": "Alien Friday",
+            "emoji": "👽",
+            "discovered": false
+        },
+        {
+            "text": "Ferry",
+            "emoji": "⛴",
+            "discovered": false
+        },
+        {
+            "text": "Irony Curtain",
+            "emoji": "🚪🚪🚪",
+            "discovered": false
+        },
+        {
+            "text": "Yogurt",
+            "emoji": "🍦",
+            "discovered": false
+        },
+        {
+            "text": "The Union",
+            "emoji": "🇺🇸",
+            "discovered": false
+        },
+        {
+            "text": "Psychology",
+            "emoji": "🧠",
+            "discovered": false
+        },
+        {
+            "text": "Pornography",
+            "emoji": "🍆",
+            "discovered": false
+        },
+        {
+            "text": "Virtue",
+            "emoji": "🌈",
+            "discovered": false
+        },
+        {
+            "text": "Dinner",
+            "emoji": "🍽️",
+            "discovered": false
+        },
+        {
+            "text": "Hillary",
+            "emoji": "👺",
+            "discovered": false
+        },
+        {
+            "text": "Poutine",
+            "emoji": "🍟",
+            "discovered": false
+        },
+        {
+            "text": "Engine",
+            "emoji": "🚗",
+            "discovered": false
+        },
+        {
+            "text": "Train",
+            "emoji": "🚂",
+            "discovered": false
+        }
+    ]
+}
