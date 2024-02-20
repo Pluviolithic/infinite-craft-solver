@@ -11,8 +11,7 @@ function allStorage() {
     return values;
 }
 
-function getPairs(elementIndex) {
-    const elements = JSON.parse(allStorage()[elementIndex]).elements;
+function getPairs(elements) {
     let pairs = [];
     for (let i = 0; i < elements.length; i++) {
         for (let j = i + 1; j < elements.length; j++) {
@@ -60,7 +59,27 @@ async function test() {
     }
 
     var elements = JSON.parse(allStorage()[elementIndex]).elements;
-    for (let pair of getPairs(elementIndex)) {
+    elements.push({
+        text: "Earth",
+        emoji: "🌍",
+        discovered: false
+    })
+    elements.push({
+        text: "Fire",
+        emoji: "🔥",
+        discovered: false
+    })
+    elements.push({
+        text: "Water",
+        emoji: "💧",
+        discovered: false
+    })
+    elements.push({
+        text: "Wind",
+        emoji: "🌬️",
+        discovered: false
+    })
+    for (let pair of getPairs(elements)) {
         const xhr = new XMLHttpRequest();
         xhr.open("GET", `https://neal.fun/api/infinite-craft/pair?first=${pair[0]}&second=${pair[1]}`);
         xhr.send();
@@ -76,13 +95,13 @@ async function test() {
                     element.discovered === data.isNew
                 );
 
-                if (!exists) {
+                if (!exists && data.text != 'Nothing' && data.emoji != '') {
                     elements.push({ text: data.result, emoji: data.emoji, discovered: data.isNew });
                     localStorage.setItem("infinite-craft-data", JSON.stringify({ elements: elements }));
                 }
             }
         };
-        await sleep(500);
+        await sleep(300);
     }
 }
 
